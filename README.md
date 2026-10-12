@@ -2,11 +2,98 @@
 
 I build modules for [Foundry Virtual Tabletop](https://foundryvtt.com). They are free, and every one of them comes in English and German.
 
-Install them from Foundry's own module browser: search for **Sephral**.
+Most of them are in Foundry's own module browser: search for **Sephral**. The others install with the manifest URL linked under each module: paste it into the Install Module dialog of Foundry.
 
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/7BjCgDYaBP)
 
+**Jump to:** [Crucible and Ember](#made-for-crucible-and-ember) · [Every system](#modules-for-every-system) · [Support](#support)
+
+## Made for Crucible and Ember
+
+**Crucible** is the game system built only for Foundry. **Ember** is the open world campaign from the Foundry team, playable with Crucible or D&D 5e. These four modules bring more to that table: a sheet that keeps up with fast turns, a combat tracker that shows what Crucible keeps hidden, NPCs that change their mood in the Vistas and an almanac for the moons above Ember.
+
+All four need Foundry v14. Vista Portrait Switcher and Lunar Almanac work with your own copy of Ember and contain none of its content.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-crucible-sheet-quickbar"><img src="media/scsq.gif" width="380" alt="Crucible Sheet &amp; Quickbar in action"></a>
+
+### [Crucible Sheet & Quickbar](https://github.com/Sephral/sephrals-crucible-sheet-quickbar)
+<sub>Foundry v14 · Crucible · Ember optional</sub>
+
+**Everything your hero can do, on one compact sheet.** When the fight starts, it shrinks into a quickbar that stays on the map.
+
+* Resources and defenses always in view
+* Shows which actions you can pay right now
+* A spellbook for composed spells
+* Each player picks it for their own heroes
+
+[Manifest URL](https://github.com/Sephral/sephrals-crucible-sheet-quickbar/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-crucible-sheet-quickbar) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-crucible-sheet-quickbar?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-crucible-combat-pulse"><img src="media/sccp.gif" width="380" alt="Crucible Combat Pulse in action"></a>
+
+### [Crucible Combat Pulse](https://github.com/Sephral/sephrals-crucible-combat-pulse)
+<sub>Foundry v14 · Crucible</sub>
+
+**Crucible fights have a pulse nobody at the table can see.** Combat Pulse puts it into the combat tracker.
+
+* Exact progress to the next Heroism point
+* Countdown to the Morale escalation
+* Forecast of everyone's next initiative
+* Never rolls dice or changes an actor
+
+[Manifest URL](https://github.com/Sephral/sephrals-crucible-combat-pulse/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-crucible-combat-pulse) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-crucible-combat-pulse?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-vista-portrait-switcher"><img src="media/svps.gif" width="380" alt="Vista Portrait Switcher in action"></a>
+
+### [Vista Portrait Switcher](https://github.com/Sephral/sephrals-vista-portrait-switcher)
+<sub>Foundry v14 · Ember with Crucible or D&amp;D 5e</sub>
+
+**Bring the NPCs in Ember's Vistas to life.** The merchant turns suspicious, the guard reaches for his sword. One click, and the figure changes with a soft transition.
+
+* Any number of portraits per character
+* A palette right in the token HUD
+* Import a whole folder in seconds
+* Players can switch their own heroes too
+
+[Manifest URL](https://github.com/Sephral/sephrals-vista-portrait-switcher/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-vista-portrait-switcher) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-vista-portrait-switcher?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-lunar-almanac"><img src="media/sla.gif" width="380" alt="Lunar Almanac in action"></a>
+
+### [Lunar Almanac](https://github.com/Sephral/sephrals-lunar-almanac)
+<sub>Foundry v14 · Ember, tested with Crucible</sub>
+
+**When does the next full moon rise over Ember, and which heroes are waiting for it?** Ember's calendar shows today's sky. The almanac shows what comes next.
+
+* Moons and inner realms with their phases
+* A timeline of the coming 30 days
+* The heroes attuned to each moon
+* A message when a moon becomes full
+
+[Manifest URL](https://github.com/Sephral/sephrals-lunar-almanac/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-lunar-almanac) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-lunar-almanac?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+
+</td>
+</tr>
+</table>
+
+<sub>The previews use Crucible's pregenerated heroes and stand in art made for the demos. They show no Ember content.</sub>
+
 ## Modules for every system
+
+For Foundry v13 and v14, with any game system.
 
 <table>
 <tr>
@@ -100,13 +187,6 @@ A file manager with two panels side by side, controlled by keyboard like the cla
 
 </td>
 </tr>
-</table>
-
-## In development
-
-These modules already have public repositories but no release yet.
-
-<table>
 <tr>
 <td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-combat-log-stats"><img src="media/scls.jpg" width="300" alt="Combat Log &amp; Stats"></a></td>
 <td valign="top">
@@ -116,49 +196,7 @@ These modules already have public repositories but no release yet.
 
 Records every fight round by round: damage, healing, takedowns, close calls and control effects for each combatant. The GM can share a player friendly report in chat or as a journal.
 
-</td>
-</tr>
-<tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-crucible-sheet-quickbar"><img src="media/scsq.jpg" width="300" alt="Crucible Sheet &amp; Quickbar"></a></td>
-<td valign="top">
-
-### [Crucible Sheet & Quickbar](https://github.com/Sephral/sephrals-crucible-sheet-quickbar)
-<sub>Foundry v14 · Crucible</sub>
-
-A compact hero and adversary sheet for Crucible. Resources, defenses and actions stay in view, composed spells live in a spellbook, and in combat the sheet shrinks into a small quickbar. Each player decides which characters use it.
-
-</td>
-</tr>
-<tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-crucible-combat-pulse"><img src="media/sccp.jpg" width="300" alt="Crucible Combat Pulse"></a></td>
-<td valign="top">
-
-### [Crucible Combat Pulse](https://github.com/Sephral/sephrals-crucible-combat-pulse)
-<sub>Foundry v14 · Crucible</sub>
-
-Shows the hidden pulse of a Crucible fight in the combat tracker: the exact progress to the next Heroism point, the Morale escalation from round 7 and a forecast of every combatant's next initiative roll.
-
-</td>
-</tr>
-<tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-vista-portrait-switcher"><img src="media/svps.jpg" width="300" alt="Vista Portrait Switcher"></a></td>
-<td valign="top">
-
-### [Vista Portrait Switcher](https://github.com/Sephral/sephrals-vista-portrait-switcher)
-<sub>Foundry v14 · Crucible with Ember</sub>
-
-Change the portrait of an NPC in Ember's Vista scenes in the middle of a conversation: a gallery with any number of portraits per character, a palette in the token HUD and a soft transition.
-
-</td>
-</tr>
-<tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-lunar-almanac"><img src="media/sla.jpg" width="300" alt="Lunar Almanac"></a></td>
-<td valign="top">
-
-### [Lunar Almanac](https://github.com/Sephral/sephrals-lunar-almanac)
-<sub>Foundry v14 · Crucible with Ember</sub>
-
-An almanac for the sky of Ember: the phase of every moon and how long it lasts, the next full moon, a timeline of the coming days and the heroes attuned to each moon, with optional notifications.
+[Manifest URL](https://github.com/Sephral/sephrals-combat-log-stats/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-combat-log-stats) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-combat-log-stats?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
 </td>
 </tr>
@@ -168,4 +206,4 @@ An almanac for the sky of Ember: the phase of every moon and how long it lasts, 
 
 Questions, ideas and bug reports are welcome on [Discord](https://discord.gg/7BjCgDYaBP) or as an issue in the repository of the module.
 
-<sub>Foundry Virtual Tabletop is a trademark of Foundry Gaming LLC. These modules are independent fan projects and are not affiliated with or endorsed by Foundry Gaming LLC.</sub>
+<sub>Foundry Virtual Tabletop is a trademark of Foundry Gaming LLC. Crucible and Ember belong to their creators. These modules are independent fan projects and are not affiliated with or endorsed by Foundry Gaming LLC or the creators of Crucible and Ember.</sub>
