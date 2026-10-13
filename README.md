@@ -2,7 +2,7 @@
 
 I build modules for [Foundry Virtual Tabletop](https://foundryvtt.com). They are free, and every one of them comes in English and German.
 
-All of them are in Foundry's own module browser: search for **Sephral**.
+You find them in Foundry's own module browser: search for **Sephral**. The newest one, Loot Ledger, installs with its manifest URL until Foundry lists it.
 
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/7BjCgDYaBP)
 
@@ -96,6 +96,19 @@ All four need Foundry v14. Vista Portrait Switcher and Lunar Almanac work with y
 For Foundry v13 and v14, with any game system.
 
 <table>
+<tr>
+<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-loot-ledger"><img src="media/sll.jpg" width="300" alt="Loot Ledger"></a></td>
+<td valign="top">
+
+### [Loot Ledger](https://github.com/Sephral/sephrals-loot-ledger)
+<sub>Foundry v13 and v14 · any system, built in support for Crucible and D&amp;D 5e</sub>
+
+A shared party inventory with a fair loot table. Players mark Need, Want or Pass, coins are split without losing a copper, loot nobody wants goes into the party inventory, and every handover is written into a log all players can read.
+
+[Manifest URL](https://github.com/Sephral/sephrals-loot-ledger/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-loot-ledger) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-loot-ledger?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+
+</td>
+</tr>
 <tr>
 <td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-image-paste-drop"><img src="media/sipd.jpg" width="300" alt="Image Paste &amp; Drop"></a></td>
 <td valign="top">
