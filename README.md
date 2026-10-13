@@ -2,7 +2,7 @@
 
 I build modules for [Foundry Virtual Tabletop](https://foundryvtt.com). They are free, and every one of them comes in English and German.
 
-Most of them are in Foundry's own module browser: search for **Sephral**. The others install with the manifest URL linked under each module: paste it into the Install Module dialog of Foundry.
+All of them are in Foundry's own module browser: search for **Sephral**.
 
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/7BjCgDYaBP)
 
@@ -30,7 +30,7 @@ All four need Foundry v14. Vista Portrait Switcher and Lunar Almanac work with y
 * A spellbook for composed spells
 * Each player picks it for their own heroes
 
-[Manifest URL](https://github.com/Sephral/sephrals-crucible-sheet-quickbar/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-crucible-sheet-quickbar) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-crucible-sheet-quickbar?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+[Foundry package](https://foundryvtt.com/packages/sephrals-crucible-sheet-quickbar) · [GitHub](https://github.com/Sephral/sephrals-crucible-sheet-quickbar) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-crucible-sheet-quickbar?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
 </td>
 <td width="50%" valign="top">
@@ -47,7 +47,7 @@ All four need Foundry v14. Vista Portrait Switcher and Lunar Almanac work with y
 * Forecast of everyone's next initiative
 * Never rolls dice or changes an actor
 
-[Manifest URL](https://github.com/Sephral/sephrals-crucible-combat-pulse/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-crucible-combat-pulse) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-crucible-combat-pulse?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+[Foundry package](https://foundryvtt.com/packages/sephrals-crucible-combat-pulse) · [GitHub](https://github.com/Sephral/sephrals-crucible-combat-pulse) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-crucible-combat-pulse?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
 </td>
 </tr>
@@ -66,7 +66,7 @@ All four need Foundry v14. Vista Portrait Switcher and Lunar Almanac work with y
 * Import a whole folder in seconds
 * Players can switch their own heroes too
 
-[Manifest URL](https://github.com/Sephral/sephrals-vista-portrait-switcher/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-vista-portrait-switcher) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-vista-portrait-switcher?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+[Foundry package](https://foundryvtt.com/packages/sephrals-vista-portrait-switcher) · [GitHub](https://github.com/Sephral/sephrals-vista-portrait-switcher) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-vista-portrait-switcher?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
 </td>
 <td width="50%" valign="top">
@@ -83,7 +83,7 @@ All four need Foundry v14. Vista Portrait Switcher and Lunar Almanac work with y
 * The heroes attuned to each moon
 * A message when a moon becomes full
 
-[Manifest URL](https://github.com/Sephral/sephrals-lunar-almanac/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-lunar-almanac) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-lunar-almanac?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+[Foundry package](https://foundryvtt.com/packages/sephrals-lunar-almanac) · [GitHub](https://github.com/Sephral/sephrals-lunar-almanac) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-lunar-almanac?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
 </td>
 </tr>
@@ -196,7 +196,7 @@ A file manager with two panels side by side, controlled by keyboard like the cla
 
 Records every fight round by round: damage, healing, takedowns, close calls and control effects for each combatant. The GM can share a player friendly report in chat or as a journal.
 
-[Manifest URL](https://github.com/Sephral/sephrals-combat-log-stats/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-combat-log-stats) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-combat-log-stats?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+[Foundry package](https://foundryvtt.com/packages/sephrals-combat-log-stats) · [GitHub](https://github.com/Sephral/sephrals-combat-log-stats) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-combat-log-stats?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
 </td>
 </tr>
