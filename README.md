@@ -2,7 +2,7 @@
 
 I build modules for [Foundry Virtual Tabletop](https://foundryvtt.com). They are free, and every one of them comes in English and German.
 
-You find them in Foundry's own module browser: search for **Sephral**. The newest one, Loot Ledger, installs with its manifest URL until Foundry lists it.
+You find them in Foundry's own module browser: search for **Sephral**. The newest ones, Tavern Games and Loot Ledger, install with their manifest URL until Foundry lists them.
 
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/7BjCgDYaBP)
 
@@ -96,6 +96,19 @@ All four need Foundry v14. Vista Portrait Switcher and Lunar Almanac work with y
 For Foundry v13 and v14, with any game system.
 
 <table>
+<tr>
+<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-tavern-games"><img src="media/stg.gif" width="300" alt="Tavern Games"></a></td>
+<td valign="top">
+
+### [Tavern Games](https://github.com/Sephral/sephrals-tavern-games)
+<sub>Foundry v13 and v14 · any system</sub>
+
+Games for the tavern table: tic tac toe, four in a row, nine men's morris, the matchstick game, Pig, liar's dice, ship captain and crew, and twenty one against the house. Play against each other or against the regulars of the inn while the rest of the group watches. Every game comes with a short guide in the tongue of old.
+
+[Manifest URL](https://github.com/Sephral/sephrals-tavern-games/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-tavern-games) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-tavern-games?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+
+</td>
+</tr>
 <tr>
 <td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-loot-ledger"><img src="media/sll.jpg" width="300" alt="Loot Ledger"></a></td>
 <td valign="top">
