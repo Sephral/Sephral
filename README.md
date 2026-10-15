@@ -79,8 +79,10 @@ All four need Foundry v14. Vista Portrait Switcher and Lunar Almanac work with y
 **When does the next full moon rise over Ember, and which heroes are waiting for it?** Ember's calendar shows today's sky. The almanac shows what comes next.
 
 * Moons and inner realms with their phases
-* A timeline of the coming 30 days
-* The heroes attuned to each moon
+* A timeline of the coming 30 days and half a year for the inner realms
+* A look at any other day without changing the time
+* The heroes of your party attuned to each moon
+* The weather and the coming wind where the party is
 * A message when a moon becomes full
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-lunar-almanac) · [GitHub](https://github.com/Sephral/sephrals-lunar-almanac) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-lunar-almanac?label=release&color=fe6a1f" alt="Latest release" valign="middle">
@@ -129,7 +131,7 @@ A shared party inventory with a fair loot table. Players mark Need, Want or Pass
 ### [Image Paste & Drop](https://github.com/Sephral/sephrals-image-paste-drop)
 <sub>Foundry v13 and v14 · any system</sub>
 
-Paste an image with Ctrl+V or drop it onto Foundry and decide what it becomes: a new scene, the background of the current scene, a tile, a journal page or a picture shown to your players.
+Paste an image with Ctrl+V or drop it onto Foundry and decide what it becomes: a new scene, the background of the current scene, a tile, a journal page, a map pin, a token image, a portrait, a chat post or a picture shown to the players you pick. Several images go into one journal or a tile grid at once, and large images are made smaller before the upload.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-image-paste-drop) · [GitHub](https://github.com/Sephral/sephrals-image-paste-drop) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-image-paste-drop?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
@@ -155,7 +157,7 @@ Named backups for scenes, actors, items, journals, playlists, macros, roll table
 ### [Roll Triggers](https://github.com/Sephral/sephrals-roll-triggers)
 <sub>Foundry v13 and v14 · any system</sub>
 
-House rules for special rolls: natural 20s, fumbles, doubles, exact values and more. A trigger can post a message, roll on a table, run a macro or wait until the GM confirms it. Starter profiles for many popular systems are included.
+House rules for special rolls: natural 20s, fumbles, doubles, exact values and more. A trigger can post a message, roll on a table, run a macro, play a sound, show an image, apply a condition or change hit points, or wait until the GM confirms it. A test bench shows with dice of your choice which triggers fire and why. Starter profiles for many popular systems are included.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-roll-triggers) · [GitHub](https://github.com/Sephral/sephrals-roll-triggers) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-roll-triggers?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
@@ -166,7 +168,7 @@ House rules for special rolls: natural 20s, fumbles, doubles, exact values and m
 <td valign="top">
 
 ### [Roll Breakdown](https://github.com/Sephral/sephrals-roll-breakdown)
-<sub>Foundry v13 and v14 · any system, extra details for D&amp;D 5e</sub>
+<sub>Foundry v13 and v14 · any system, extra details for D&amp;D 5e, Crucible, Pathfinder 2e and Savage Worlds</sub>
 
 Adds a compact panel to roll messages that shows where every number comes from: dice, modifiers and the parts of a formula that stay unresolved. In D&D 5e it also lists the reasons for advantage and disadvantage when the roll data provides them.
 
@@ -194,7 +196,7 @@ Private GM notes attached to player characters: story hooks, secrets, promises, 
 ### [Module Loadouts](https://github.com/Sephral/sephrals-module-loadouts)
 <sub>Foundry v13 and v14 · any system</sub>
 
-Save the active modules as a named loadout, compare it with the current setup and switch with one click. Loadouts work for one world or for the whole installation and can be exported as JSON.
+Save the active modules as a named loadout, compare it with the current setup and switch with one click. After the restart the module checks that everything came up as planned and offers to undo the switch. Loadouts work for one world or for the whole installation and can be exported as JSON.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-module-loadouts) · [GitHub](https://github.com/Sephral/sephrals-module-loadouts) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-module-loadouts?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
@@ -218,9 +220,9 @@ A file manager with two panels side by side, controlled by keyboard like the cla
 <td valign="top">
 
 ### [Combat Log & Stats](https://github.com/Sephral/sephrals-combat-log-stats)
-<sub>Foundry v13 and v14 · any system, exact attribution in D&amp;D 5e</sub>
+<sub>Foundry v13 and v14 · any system, exact attribution in D&amp;D 5e and Crucible, works with Midi-QOL</sub>
 
-Records every fight round by round: damage, healing, takedowns, close calls and control effects for each combatant. The GM can share a player friendly report in chat or as a journal.
+Records every fight round by round: damage, healing, takedowns, close calls and control effects for each combatant, with charts and awards such as MVP and Best Healer. The GM can share a player friendly report in chat, as a journal or on Discord.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-combat-log-stats) · [GitHub](https://github.com/Sephral/sephrals-combat-log-stats) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-combat-log-stats?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
