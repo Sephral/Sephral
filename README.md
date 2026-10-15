@@ -222,7 +222,7 @@ A file manager with two panels side by side, controlled by keyboard like the cla
 ### [Combat Log & Stats](https://github.com/Sephral/sephrals-combat-log-stats)
 <sub>Foundry v13 and v14 · any system, exact attribution in D&amp;D 5e and Crucible, works with Midi-QOL</sub>
 
-Records every fight round by round: damage, healing, takedowns, close calls and control effects for each combatant, with charts and awards such as MVP and Best Healer. The GM can share a player friendly report in chat, as a journal or on Discord.
+Records every fight round by round: damage, healing, takedowns, close calls and control effects for each combatant, with charts and awards such as MVP and Best Healer. The GM can share a player friendly report in chat, as a journal or on Discord, and players can open the statistics themselves, read only.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-combat-log-stats) · [GitHub](https://github.com/Sephral/sephrals-combat-log-stats) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-combat-log-stats?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
