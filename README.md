@@ -28,6 +28,7 @@ All four need Foundry v14. Vista Portrait Switcher and Lunar Almanac work with y
 * Resources and defenses always in view
 * Shows which actions you can pay right now
 * A spellbook for composed spells
+* Maintain your effects right from the sheet
 * Each player picks it for their own heroes
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-crucible-sheet-quickbar) · [GitHub](https://github.com/Sephral/sephrals-crucible-sheet-quickbar) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-crucible-sheet-quickbar?label=release&color=fe6a1f" alt="Latest release" valign="middle">
@@ -155,7 +156,7 @@ Named backups for scenes, actors, items, journals, playlists, macros, roll table
 <td valign="top">
 
 ### [Roll Triggers](https://github.com/Sephral/sephrals-roll-triggers)
-<sub>Foundry v13 and v14 · any system, works with MidiQOL and Ready Set Roll</sub>
+<sub>Foundry v13 and v14 · any system, works with D&amp;D 5e 5.x and 6.x, MidiQOL and Ready Set Roll</sub>
 
 House rules for special rolls: natural 20s, fumbles, doubles, exact values and more. A trigger can post a message, roll on a table, run a macro, play a sound, show an image, apply a condition or change hit points, or wait until the GM confirms it. Filters limit a trigger to certain actors or to one weapon or spell. A test bench shows with dice of your choice which triggers fire and why. Starter profiles for many popular systems are included.
 
@@ -168,7 +169,7 @@ House rules for special rolls: natural 20s, fumbles, doubles, exact values and m
 <td valign="top">
 
 ### [Roll Breakdown](https://github.com/Sephral/sephrals-roll-breakdown)
-<sub>Foundry v13 and v14 · any system, extra details for D&amp;D 5e, Crucible, Pathfinder 2e and Savage Worlds, works with MidiQOL and Ready Set Roll</sub>
+<sub>Foundry v13 and v14 · any system, extra details for D&amp;D 5e (5.x and 6.x), Crucible, Pathfinder 2e and Savage Worlds, works with MidiQOL and Ready Set Roll</sub>
 
 Adds a compact panel to roll messages that shows where every number comes from: dice, modifiers and the parts of a formula that stay unresolved. In D&D 5e it also lists the reasons for advantage and disadvantage when the roll data provides them.
 
@@ -220,7 +221,7 @@ A file manager with two panels side by side, controlled by keyboard like the cla
 <td valign="top">
 
 ### [Combat Log & Stats](https://github.com/Sephral/sephrals-combat-log-stats)
-<sub>Foundry v13 and v14 · any system, exact attribution in D&amp;D 5e and Crucible, works with MidiQOL and Ready Set Roll</sub>
+<sub>Foundry v13 and v14 · any system, exact attribution in D&amp;D 5e (5.x and 6.x) and Crucible, works with MidiQOL and Ready Set Roll</sub>
 
 Records every fight round by round: damage, healing, takedowns, close calls and control effects for each combatant, with charts and awards such as MVP and Best Healer. The GM can share a player friendly report in chat, as a journal or on Discord, and players can open the statistics themselves, read only.
 
