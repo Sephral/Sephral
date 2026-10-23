@@ -2,7 +2,7 @@
 
 I build modules for [Foundry Virtual Tabletop](https://foundryvtt.com). They are free, and every one of them comes in English and German.
 
-You find them in Foundry's own module browser: search for **Sephral**. The newest ones, Tavern Games and Loot Ledger, install with their manifest URL until Foundry lists them.
+You find them all in Foundry's own module browser: search for **Sephral**.
 
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/7BjCgDYaBP)
 
@@ -107,7 +107,7 @@ For Foundry v13 and v14, with any game system.
 
 Games for the tavern table: tic tac toe, four in a row, nine men's morris, the matchstick game, Pig, liar's dice, ship captain and crew, and twenty one against the house. Play against each other or against the regulars of the inn while the rest of the group watches. Every game comes with a short guide in the tongue of old.
 
-[Manifest URL](https://github.com/Sephral/sephrals-tavern-games/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-tavern-games) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-tavern-games?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+[Foundry package](https://foundryvtt.com/packages/sephrals-tavern-games) · [GitHub](https://github.com/Sephral/sephrals-tavern-games) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-tavern-games?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
 </td>
 </tr>
@@ -118,9 +118,9 @@ Games for the tavern table: tic tac toe, four in a row, nine men's morris, the m
 ### [Loot Ledger](https://github.com/Sephral/sephrals-loot-ledger)
 <sub>Foundry v13 and v14 · any system, built in support for Crucible and D&amp;D 5e</sub>
 
-A shared party inventory with a fair loot table. Players mark Need, Want or Pass, coins are split without losing a copper, loot nobody wants goes into the party inventory, and every handover is written into a log all players can read.
+A shared party inventory with a fair loot table. Players mark Need, Want or Pass, coins are split without losing a copper, loot nobody wants goes into the party inventory, and every handover is written into a log all players can read. Tables with their own exchange rates in D&D 5e set what each coin is worth.
 
-[Manifest URL](https://github.com/Sephral/sephrals-loot-ledger/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-loot-ledger) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-loot-ledger?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+[Foundry package](https://foundryvtt.com/packages/sephrals-loot-ledger) · [GitHub](https://github.com/Sephral/sephrals-loot-ledger) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-loot-ledger?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
 </td>
 </tr>
@@ -155,9 +155,9 @@ Named backups for scenes, actors, items, journals, playlists, macros, roll table
 <td valign="top">
 
 ### [Roll Triggers](https://github.com/Sephral/sephrals-roll-triggers)
-<sub>Foundry v13 and v14 · any system</sub>
+<sub>Foundry v13 and v14 · any system, works with MidiQOL and Ready Set Roll</sub>
 
-House rules for special rolls: natural 20s, fumbles, doubles, exact values and more. A trigger can post a message, roll on a table, run a macro, play a sound, show an image, apply a condition or change hit points, or wait until the GM confirms it. A test bench shows with dice of your choice which triggers fire and why. Starter profiles for many popular systems are included.
+House rules for special rolls: natural 20s, fumbles, doubles, exact values and more. A trigger can post a message, roll on a table, run a macro, play a sound, show an image, apply a condition or change hit points, or wait until the GM confirms it. Filters limit a trigger to certain actors or to one weapon or spell. A test bench shows with dice of your choice which triggers fire and why. Starter profiles for many popular systems are included.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-roll-triggers) · [GitHub](https://github.com/Sephral/sephrals-roll-triggers) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-roll-triggers?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
@@ -168,7 +168,7 @@ House rules for special rolls: natural 20s, fumbles, doubles, exact values and m
 <td valign="top">
 
 ### [Roll Breakdown](https://github.com/Sephral/sephrals-roll-breakdown)
-<sub>Foundry v13 and v14 · any system, extra details for D&amp;D 5e, Crucible, Pathfinder 2e and Savage Worlds</sub>
+<sub>Foundry v13 and v14 · any system, extra details for D&amp;D 5e, Crucible, Pathfinder 2e and Savage Worlds, works with MidiQOL and Ready Set Roll</sub>
 
 Adds a compact panel to roll messages that shows where every number comes from: dice, modifiers and the parts of a formula that stay unresolved. In D&D 5e it also lists the reasons for advantage and disadvantage when the roll data provides them.
 
@@ -220,7 +220,7 @@ A file manager with two panels side by side, controlled by keyboard like the cla
 <td valign="top">
 
 ### [Combat Log & Stats](https://github.com/Sephral/sephrals-combat-log-stats)
-<sub>Foundry v13 and v14 · any system, exact attribution in D&amp;D 5e and Crucible, works with Midi-QOL</sub>
+<sub>Foundry v13 and v14 · any system, exact attribution in D&amp;D 5e and Crucible, works with MidiQOL and Ready Set Roll</sub>
 
 Records every fight round by round: damage, healing, takedowns, close calls and control effects for each combatant, with charts and awards such as MVP and Best Healer. The GM can share a player friendly report in chat, as a journal or on Discord, and players can open the statistics themselves, read only.
 
