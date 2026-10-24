@@ -2,7 +2,7 @@
 
 I build modules for [Foundry Virtual Tabletop](https://foundryvtt.com). They are free, and every one of them comes in English and German.
 
-You find them in Foundry's own module browser: search for **Sephral**. The newest, Table Compass, installs by manifest URL until Foundry lists it.
+You find them in Foundry's own module browser: search for **Sephral**. The newest, Performance Doctor and Table Compass, install by manifest URL until Foundry lists them.
 
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/7BjCgDYaBP)
 
@@ -99,6 +99,19 @@ All four need Foundry v14. Vista Portrait Switcher and Lunar Almanac work with y
 For Foundry v13 and v14, with any game system.
 
 <table>
+<tr>
+<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-performance-doctor"><img src="media/spd.gif" width="300" alt="Performance Doctor"></a></td>
+<td valign="top">
+
+### [Performance Doctor](https://github.com/Sephral/sephrals-performance-doctor)
+<sub>Foundry v13 and v14 · any system</sub>
+
+Finds out why Foundry is slow and helps fix it. It spots a browser that draws without the graphics card, settings that cost too much, heavy maps and slow lines, and measures how much time every module takes. Players get help step by step, the GM sees the whole table and turns huge maps into small WebP copies with one click.
+
+[Manifest URL](https://github.com/Sephral/sephrals-performance-doctor/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-performance-doctor) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-performance-doctor?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+
+</td>
+</tr>
 <tr>
 <td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-table-compass"><img src="media/stc.gif" width="300" alt="Table Compass"></a></td>
 <td valign="top">
