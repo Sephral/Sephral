@@ -2,7 +2,7 @@
 
 I build modules for [Foundry Virtual Tabletop](https://foundryvtt.com). They are free, and every one of them comes in English and German.
 
-You find them all in Foundry's own module browser: search for **Sephral**.
+You find them in Foundry's own module browser: search for **Sephral**. The newest, Table Compass, installs by manifest URL until Foundry lists it.
 
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/7BjCgDYaBP)
 
@@ -99,6 +99,19 @@ All four need Foundry v14. Vista Portrait Switcher and Lunar Almanac work with y
 For Foundry v13 and v14, with any game system.
 
 <table>
+<tr>
+<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-table-compass"><img src="media/stc.gif" width="300" alt="Table Compass"></a></td>
+<td valign="top">
+
+### [Table Compass](https://github.com/Sephral/sephrals-table-compass)
+<sub>Foundry v13 and v14 · any system</sub>
+
+Anonymous feedback from the players to the GM. Scales for pace, tension, roleplay and combat with fine in the middle, quick signals like a break or the X card, wishes for the next scenes, a scene check and a feedback round at the end of the session. The GM sees the mood of the table in one small window, never who said what.
+
+[Manifest URL](https://github.com/Sephral/sephrals-table-compass/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-table-compass) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-table-compass?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+
+</td>
+</tr>
 <tr>
 <td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-tavern-games"><img src="media/stg.gif" width="300" alt="Tavern Games"></a></td>
 <td valign="top">
