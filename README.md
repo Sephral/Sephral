@@ -126,7 +126,7 @@ Games for the tavern table: tic tac toe, four in a row, nine men's morris, the m
 </td>
 </tr>
 <tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-loot-ledger"><img src="media/sll.jpg" width="300" alt="Loot Ledger"></a></td>
+<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-loot-ledger"><img src="media/sll.gif" width="300" alt="Loot Ledger"></a></td>
 <td valign="top">
 
 ### [Loot Ledger](https://github.com/Sephral/sephrals-loot-ledger)
@@ -139,7 +139,7 @@ A shared party inventory with a fair loot table. Players mark Need, Want or Pass
 </td>
 </tr>
 <tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-image-paste-drop"><img src="media/sipd.jpg" width="300" alt="Image Paste &amp; Drop"></a></td>
+<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-image-paste-drop"><img src="media/sipd.gif" width="300" alt="Image Paste &amp; Drop"></a></td>
 <td valign="top">
 
 ### [Image Paste & Drop](https://github.com/Sephral/sephrals-image-paste-drop)
@@ -152,7 +152,7 @@ Paste an image with Ctrl+V or drop it onto Foundry and decide what it becomes: a
 </td>
 </tr>
 <tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-content-backup-restore"><img src="media/scbr.jpg" width="300" alt="Content Backup &amp; Restore"></a></td>
+<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-content-backup-restore"><img src="media/scbr.gif" width="300" alt="Content Backup &amp; Restore"></a></td>
 <td valign="top">
 
 ### [Content Backup & Restore](https://github.com/Sephral/sephrals-content-backup-restore)
@@ -165,7 +165,7 @@ Named backups for scenes, actors, items, journals, playlists, macros, roll table
 </td>
 </tr>
 <tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-roll-triggers"><img src="media/srt.jpg" width="300" alt="Roll Triggers"></a></td>
+<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-roll-triggers"><img src="media/srt.gif" width="300" alt="Roll Triggers"></a></td>
 <td valign="top">
 
 ### [Roll Triggers](https://github.com/Sephral/sephrals-roll-triggers)
@@ -178,7 +178,7 @@ House rules for special rolls: natural 20s, fumbles, doubles, exact values and m
 </td>
 </tr>
 <tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-roll-breakdown"><img src="media/srb.jpg" width="300" alt="Roll Breakdown"></a></td>
+<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-roll-breakdown"><img src="media/srb.gif" width="300" alt="Roll Breakdown"></a></td>
 <td valign="top">
 
 ### [Roll Breakdown](https://github.com/Sephral/sephrals-roll-breakdown)
@@ -191,7 +191,7 @@ Adds a compact panel to roll messages that shows where every number comes from: 
 </td>
 </tr>
 <tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-player-notes"><img src="media/spn.jpg" width="300" alt="Player Notes"></a></td>
+<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-player-notes"><img src="media/spn.gif" width="300" alt="Player Notes"></a></td>
 <td valign="top">
 
 ### [Player Notes](https://github.com/Sephral/sephrals-player-notes)
@@ -204,7 +204,7 @@ Private GM notes attached to player characters: story hooks, secrets, promises, 
 </td>
 </tr>
 <tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-module-loadouts"><img src="media/sml.jpg" width="300" alt="Module Loadouts"></a></td>
+<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-module-loadouts"><img src="media/sml.gif" width="300" alt="Module Loadouts"></a></td>
 <td valign="top">
 
 ### [Module Loadouts](https://github.com/Sephral/sephrals-module-loadouts)
@@ -217,7 +217,7 @@ Save the active modules as a named loadout, compare it with the current setup an
 </td>
 </tr>
 <tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-file-commander"><img src="media/sfc.jpg" width="300" alt="File Commander"></a></td>
+<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-file-commander"><img src="media/sfc.gif" width="300" alt="File Commander"></a></td>
 <td valign="top">
 
 ### [File Commander](https://github.com/Sephral/sephrals-file-commander)
@@ -230,7 +230,7 @@ A file manager with two panels side by side, controlled by keyboard like the cla
 </td>
 </tr>
 <tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-combat-log-stats"><img src="media/scls.jpg" width="300" alt="Combat Log &amp; Stats"></a></td>
+<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-combat-log-stats"><img src="media/scls.gif" width="300" alt="Combat Log &amp; Stats"></a></td>
 <td valign="top">
 
 ### [Combat Log & Stats](https://github.com/Sephral/sephrals-combat-log-stats)
