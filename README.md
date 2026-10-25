@@ -158,7 +158,7 @@ Games for the tavern table: tic tac toe, four in a row, nine men's morris, the m
 ### [Loot Ledger](https://github.com/Sephral/sephrals-loot-ledger)
 <sub>Foundry v13 and v14 · any system, built in support for Crucible and D&amp;D 5e</sub>
 
-A shared party inventory with a fair loot table. Players mark Need, Want or Pass, coins are split without losing a copper, loot nobody wants goes into the party inventory, and every handover is written into a log all players can read. Tables with their own exchange rates in D&D 5e set what each coin is worth.
+A shared party inventory with a fair loot table. Players open any item with a click to read what it does, mark Need, Want or Pass, coins are split without losing a copper, loot nobody wants goes into the party inventory, and every handover is written into a log all players can read. Tables with their own exchange rates in D&D 5e set what each coin is worth.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-loot-ledger) · [GitHub](https://github.com/Sephral/sephrals-loot-ledger) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-loot-ledger?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
@@ -171,7 +171,7 @@ A shared party inventory with a fair loot table. Players mark Need, Want or Pass
 ### [Image Paste & Drop](https://github.com/Sephral/sephrals-image-paste-drop)
 <sub>Foundry v13 and v14 · any system</sub>
 
-Paste an image with Ctrl+V or drop it onto Foundry and decide what it becomes: a new scene, the background of the current scene, a tile, a journal page, a map pin, a token image, a portrait, a chat post or a picture shown to the players you pick. Several images go into one journal or a tile grid at once, and large images are made smaller before the upload.
+Paste an image with Ctrl+V or drop it onto Foundry and decide what it becomes: a new scene, the background of the current scene, a tile, a journal page, a map pin, a token image, a portrait, a chat post or a picture shown to the players you pick. WebM and MP4 videos work the same way, and a map named Tavern 30x20 becomes a scene with a grid that fits. Alt+V sends the copied image to your usual target, Alt+P shows it to the players at once. Several images go into one journal or a tile grid at once, and large images are made smaller before the upload.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-image-paste-drop) · [GitHub](https://github.com/Sephral/sephrals-image-paste-drop) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-image-paste-drop?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
