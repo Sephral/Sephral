@@ -2,7 +2,7 @@
 
 I build modules for [Foundry Virtual Tabletop](https://foundryvtt.com). They are free, and every one of them comes in English and German.
 
-You find them in Foundry's own module browser: search for **Sephral**. The newest, Performance Doctor and Table Compass, install by manifest URL until Foundry lists them.
+You find them in Foundry's own module browser: search for **Sephral**. The newest, Campaign Album, Performance Doctor and Table Compass, install by manifest URL until Foundry lists them.
 
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/7BjCgDYaBP)
 
@@ -109,6 +109,19 @@ For Foundry v13 and v14, with any game system.
 Finds out why Foundry is slow and helps fix it. It spots a browser that draws without the graphics card, settings that cost too much, heavy maps and slow lines, and measures how much time every module takes. Players get help step by step, the GM sees the whole table and turns huge maps into small WebP copies with one click.
 
 [Manifest URL](https://github.com/Sephral/sephrals-performance-doctor/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-performance-doctor) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-performance-doctor?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+
+</td>
+</tr>
+<tr>
+<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-campaign-album"><img src="media/sca.gif" width="300" alt="Campaign Album"></a></td>
+<td valign="top">
+
+### [Campaign Album](https://github.com/Sephral/sephrals-campaign-album)
+<sub>Foundry v13 and v14 · any system</sub>
+
+Photos of the big moments, exactly as your players saw them. Critical hits, fallen bosses, victories, farewells, level ups and the sunrise of a new day land in the album on their own, one page per session, with a slideshow for the end of the evening. Players can send in their own photos for the GM to add.
+
+[Manifest URL](https://github.com/Sephral/sephrals-campaign-album/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-campaign-album) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-campaign-album?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
 </td>
 </tr>
