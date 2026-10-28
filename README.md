@@ -2,7 +2,7 @@
 
 I build modules for [Foundry Virtual Tabletop](https://foundryvtt.com). They are free, and every one of them comes in English and German.
 
-You find them in Foundry's own module browser: search for **Sephral**. The newest, Campaign Album, Performance Doctor and Table Compass, install by manifest URL until Foundry lists them.
+You find them in Foundry's own module browser: search for **Sephral**. The newest, Performance Doctor, installs by manifest URL until Foundry lists it.
 
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/7BjCgDYaBP)
 
@@ -121,7 +121,7 @@ Finds out why Foundry is slow and helps fix it. It spots a browser that draws wi
 
 Photos of the big moments, exactly as your players saw them. Critical hits, fallen bosses, victories, farewells, level ups and the sunrise of a new day land in the album on their own, one page per session, with a slideshow for the end of the evening. Players can send in their own photos for the GM to add.
 
-[Manifest URL](https://github.com/Sephral/sephrals-campaign-album/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-campaign-album) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-campaign-album?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+[Foundry package](https://foundryvtt.com/packages/sephrals-campaign-album) · [GitHub](https://github.com/Sephral/sephrals-campaign-album) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-campaign-album?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
 </td>
 </tr>
@@ -134,7 +134,7 @@ Photos of the big moments, exactly as your players saw them. Critical hits, fall
 
 Anonymous feedback from the players to the GM. Scales for pace, tension, roleplay and combat with fine in the middle, quick signals like a break or the X card, wishes for the next scenes, a scene check and a feedback round at the end of the session. The GM sees the mood of the table in one small window, never who said what.
 
-[Manifest URL](https://github.com/Sephral/sephrals-table-compass/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-table-compass) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-table-compass?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+[Foundry package](https://foundryvtt.com/packages/sephrals-table-compass) · [GitHub](https://github.com/Sephral/sephrals-table-compass) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-table-compass?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
 </td>
 </tr>
