@@ -2,7 +2,7 @@
 
 I build modules for [Foundry Virtual Tabletop](https://foundryvtt.com). They are free, and every one of them comes in English and German.
 
-You find them in Foundry's own module browser: search for **Sephral**. The newest, Performance Doctor, installs by manifest URL until Foundry lists it.
+You find them in Foundry's own module browser: search for **Sephral**. The newest, Token Tooltips, Roll Requests and Saved Encounters, install by manifest URL until Foundry lists them. Performance Doctor installs by manifest URL as well.
 
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/7BjCgDYaBP)
 
@@ -99,6 +99,45 @@ All four need Foundry v14. Vista Portrait Switcher and Lunar Almanac work with y
 For Foundry v13 and v14, with any game system.
 
 <table>
+<tr>
+<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-token-tooltips"><img src="media/stt.gif" width="300" alt="Token Tooltips"></a></td>
+<td valign="top">
+
+### [Token Tooltips](https://github.com/Sephral/sephrals-token-tooltips)
+<sub>Foundry v13 and v14 · any system, presets for D&amp;D 5e, Pathfinder 2e, Savage Worlds and Crucible</sub>
+
+Rest the pointer on a token and see its health, armor, speed and conditions. The GM decides for every value who sees it and how, exact numbers or a word like bloodied, for party members, friends and foes. Hold Alt to read the whole battlefield at once, and add your own values from a list of common ones.
+
+[Manifest URL](https://github.com/Sephral/sephrals-token-tooltips/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-token-tooltips) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-token-tooltips?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+
+</td>
+</tr>
+<tr>
+<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-saved-encounters"><img src="media/sse.gif" width="300" alt="Saved Encounters"></a></td>
+<td valign="top">
+
+### [Saved Encounters](https://github.com/Sephral/sephrals-saved-encounters)
+<sub>Foundry v13 and v14 · any system</sub>
+
+Save a group of monsters once and put it on any map in seconds. A ghost preview follows the pointer, Q and E turn the formation, counts like 1d4+1 goblins are rolled anew each time, and place and fight starts the combat with initiative. Pins mark where an encounter waits, and unique villains never stand twice on a scene.
+
+[Manifest URL](https://github.com/Sephral/sephrals-saved-encounters/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-saved-encounters) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-saved-encounters?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+
+</td>
+</tr>
+<tr>
+<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-roll-requests"><img src="media/srr.gif" width="300" alt="Roll Requests"></a></td>
+<td valign="top">
+
+### [Roll Requests](https://github.com/Sephral/sephrals-roll-requests)
+<sub>Foundry v13 and v14 · any system, built in support for D&amp;D 5e, Pathfinder 2e, Savage Worlds and Crucible</sub>
+
+Ask the group for a roll with Alt+R and watch every result arrive on one live card. Show the DC or keep it secret, make it a group check, keep the results for the GM and let NPCs roll at once. Players roll with one click through their own system's dialog.
+
+[Manifest URL](https://github.com/Sephral/sephrals-roll-requests/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-roll-requests) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-roll-requests?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+
+</td>
+</tr>
 <tr>
 <td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-performance-doctor"><img src="media/spd.gif" width="300" alt="Performance Doctor"></a></td>
 <td valign="top">
