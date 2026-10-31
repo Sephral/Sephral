@@ -327,6 +327,19 @@ The party found the old map of the dungeon, or the scout came back and drew what
 
 </td>
 </tr>
+<tr>
+<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-handout-lens"><img src="media/shl.gif" width="300" alt="Handout Lens"></a></td>
+<td valign="top">
+
+### [Handout Lens](https://github.com/Sephral/sephrals-handout-lens)
+<sub>Foundry v13 and v14 · any system</sub>
+
+The GM shows a letter or an old map and the writing is too small to read. Handout Lens lets players zoom in, hold Shift for a magnifying lens, read with contrast and turn aids, and page through the notes on a picture one by one. Every shown handout lands in a folder, and players who join later still get the last picture.
+
+[GitHub](https://github.com/Sephral/sephrals-handout-lens)
+
+</td>
+</tr>
 </table>
 
 ## Support
