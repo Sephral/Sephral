@@ -2,11 +2,11 @@
 
 I build modules for [Foundry Virtual Tabletop](https://foundryvtt.com). They are free, and every one of them comes in English and German.
 
-You find them in Foundry's own module browser: search for **Sephral**. The newest, Token Tooltips, Roll Requests and Saved Encounters, install by manifest URL until Foundry lists them. Performance Doctor installs by manifest URL as well.
+You find them in Foundry's own module browser: search for **Sephral**. The newest, Handout Lens, Map Knowledge, Token Tooltips, Roll Requests and Saved Encounters, install by manifest URL until Foundry lists them. Performance Doctor installs by manifest URL as well.
 
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/7BjCgDYaBP)
 
-**Jump to:** [Crucible and Ember](#made-for-crucible-and-ember) · [Every system](#modules-for-every-system) · [Coming next](#coming-next) · [Support](#support)
+**Jump to:** [Crucible and Ember](#made-for-crucible-and-ember) · [Every system](#modules-for-every-system) · [Support](#support)
 
 ## Made for Crucible and Ember
 
@@ -96,9 +96,35 @@ All four need Foundry v14. Vista Portrait Switcher and Lunar Almanac work with y
 
 ## Modules for every system
 
-For Foundry v13 and v14, with any game system.
+For Foundry v13 and v14, with any game system. Map Knowledge needs Foundry v14.
 
 <table>
+<tr>
+<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-handout-lens"><img src="media/shl.gif" width="300" alt="Handout Lens"></a></td>
+<td valign="top">
+
+### [Handout Lens](https://github.com/Sephral/sephrals-handout-lens)
+<sub>Foundry v13 and v14 · any system</sub>
+
+The GM shows a letter or an old map and the writing is too small to read. Handout Lens lets players zoom in, hold Shift for a magnifying lens, read with contrast and turn aids, and page through the notes on a picture one by one. Every shown handout lands in a folder, and players who join later still get the last picture.
+
+[Manifest URL](https://github.com/Sephral/sephrals-handout-lens/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-handout-lens) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-handout-lens?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+
+</td>
+</tr>
+<tr>
+<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-map-knowledge"><img src="media/smk.gif" width="300" alt="Map Knowledge"></a></td>
+<td valign="top">
+
+### [Map Knowledge](https://github.com/Sephral/sephrals-map-knowledge)
+<sub>Foundry v14 · any system</sub>
+
+The party found the old map of the dungeon, or the scout came back and drew what she saw. Mark those parts of the map as known with a rectangle, an ellipse, a polygon or a whole room by its walls, for everyone or for chosen players. It all goes into Foundry's own fog of war, so token vision keeps working and monsters stay hidden until real sight reaches them.
+
+[Manifest URL](https://github.com/Sephral/sephrals-map-knowledge/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-map-knowledge) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-map-knowledge?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+
+</td>
+</tr>
 <tr>
 <td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-token-tooltips"><img src="media/stt.gif" width="300" alt="Token Tooltips"></a></td>
 <td valign="top">
@@ -304,39 +330,6 @@ A file manager with two panels side by side, controlled by keyboard like the cla
 Records every fight round by round: damage, healing, takedowns, close calls and control effects for each combatant, with charts and awards such as MVP and Best Healer. The GM can share a player friendly report in chat, as a journal or on Discord, and players can open the statistics themselves, read only.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-combat-log-stats) · [GitHub](https://github.com/Sephral/sephrals-combat-log-stats) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-combat-log-stats?label=release&color=fe6a1f" alt="Latest release" valign="middle">
-
-</td>
-</tr>
-</table>
-
-## Coming next
-
-Finished and tested, waiting for their first release. Watch the repository or join [Discord](https://discord.gg/7BjCgDYaBP) to hear when they are out.
-
-<table>
-<tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-map-knowledge"><img src="media/smk.gif" width="300" alt="Map Knowledge"></a></td>
-<td valign="top">
-
-### [Map Knowledge](https://github.com/Sephral/sephrals-map-knowledge)
-<sub>Foundry v14 · any system</sub>
-
-The party found the old map of the dungeon, or the scout came back and drew what she saw. Mark those parts of the map as known with a rectangle, an ellipse, a polygon or a whole room by its walls, for everyone or for chosen players. It all goes into Foundry's own fog of war, so token vision keeps working and monsters stay hidden until real sight reaches them.
-
-[GitHub](https://github.com/Sephral/sephrals-map-knowledge)
-
-</td>
-</tr>
-<tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-handout-lens"><img src="media/shl.gif" width="300" alt="Handout Lens"></a></td>
-<td valign="top">
-
-### [Handout Lens](https://github.com/Sephral/sephrals-handout-lens)
-<sub>Foundry v13 and v14 · any system</sub>
-
-The GM shows a letter or an old map and the writing is too small to read. Handout Lens lets players zoom in, hold Shift for a magnifying lens, read with contrast and turn aids, and page through the notes on a picture one by one. Every shown handout lands in a folder, and players who join later still get the last picture.
-
-[GitHub](https://github.com/Sephral/sephrals-handout-lens)
 
 </td>
 </tr>
