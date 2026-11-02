@@ -2,7 +2,7 @@
 
 I build modules for [Foundry Virtual Tabletop](https://foundryvtt.com). They are free, and every one of them comes in English and German.
 
-You find them in Foundry's own module browser: search for **Sephral**. Six are not in that search: Handout Lens, Map Knowledge, Token Tooltips, Roll Requests, Saved Encounters and Performance Doctor. They install by their link, and it takes a minute: [here is how](#install-by-link).
+You find them in Foundry's own module browser: search for **Sephral**. Seven are not in that search: Swift Dice, Handout Lens, Map Knowledge, Token Tooltips, Roll Requests, Saved Encounters and Performance Doctor. They install by their link, and it takes a minute: [here is how](#install-by-link).
 
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/7BjCgDYaBP)
 
@@ -99,6 +99,23 @@ All four need Foundry v14. Vista Portrait Switcher and Lunar Almanac work with y
 For Foundry v13 and v14, with any game system. Map Knowledge needs Foundry v14.
 
 <table>
+<tr>
+<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-swift-dice"><img src="media/ssd.gif" width="300" alt="Swift Dice"></a></td>
+<td valign="top">
+
+### [Swift Dice](https://github.com/Sephral/sephrals-swift-dice)
+<sub>Foundry v13 and v14 · any system</sub>
+
+Light 3D dice for every roll that never hold up the game. Everyone sees the same throw at the same moment, and the chat card shows its result when the dice lie still. Dice come in each player's Foundry color or a look of their own, with thirty ready looks, seventeen class looks, thirteen ways to throw and big moments that fit your game system. No WebGL and no physics engine, so they run on old laptops, tablets and in Firefox.
+
+[GitHub](https://github.com/Sephral/sephrals-swift-dice) · [How to install](#install-by-link) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-swift-dice?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+
+```text
+https://github.com/Sephral/sephrals-swift-dice/releases/latest/download/module.json
+```
+
+</td>
+</tr>
 <tr>
 <td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-handout-lens"><img src="media/shl.gif" width="300" alt="Handout Lens"></a></td>
 <td valign="top">
