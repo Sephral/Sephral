@@ -2,11 +2,11 @@
 
 I build modules for [Foundry Virtual Tabletop](https://foundryvtt.com). They are free, and every one of them comes in English and German.
 
-You find them in Foundry's own module browser: search for **Sephral**. The newest, Handout Lens, Map Knowledge, Token Tooltips, Roll Requests and Saved Encounters, install by manifest URL until Foundry lists them. Performance Doctor installs by manifest URL as well.
+You find them in Foundry's own module browser: search for **Sephral**. Six are not in that search: Handout Lens, Map Knowledge, Token Tooltips, Roll Requests, Saved Encounters and Performance Doctor. They install by their link, and it takes a minute: [here is how](#install-by-link).
 
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/7BjCgDYaBP)
 
-**Jump to:** [Crucible and Ember](#made-for-crucible-and-ember) · [Every system](#modules-for-every-system) · [Support](#support)
+**Jump to:** [Crucible and Ember](#made-for-crucible-and-ember) · [Every system](#modules-for-every-system) · [Install by link](#install-by-link) · [Support](#support)
 
 ## Made for Crucible and Ember
 
@@ -108,7 +108,11 @@ For Foundry v13 and v14, with any game system. Map Knowledge needs Foundry v14.
 
 The GM shows a letter or an old map and the writing is too small to read. Handout Lens lets players zoom in, hold Shift for a magnifying lens, read with contrast and turn aids, and page through the notes on a picture one by one. Every shown handout lands in a folder, and players who join later still get the last picture.
 
-[Manifest URL](https://github.com/Sephral/sephrals-handout-lens/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-handout-lens) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-handout-lens?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+[GitHub](https://github.com/Sephral/sephrals-handout-lens) · [How to install](#install-by-link) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-handout-lens?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+
+```text
+https://github.com/Sephral/sephrals-handout-lens/releases/latest/download/module.json
+```
 
 </td>
 </tr>
@@ -121,7 +125,11 @@ The GM shows a letter or an old map and the writing is too small to read. Handou
 
 The party found the old map of the dungeon, or the scout came back and drew what she saw. Mark those parts of the map as known with a rectangle, an ellipse, a polygon or a whole room by its walls, for everyone or for chosen players. It all goes into Foundry's own fog of war, so token vision keeps working and monsters stay hidden until real sight reaches them.
 
-[Manifest URL](https://github.com/Sephral/sephrals-map-knowledge/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-map-knowledge) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-map-knowledge?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+[GitHub](https://github.com/Sephral/sephrals-map-knowledge) · [How to install](#install-by-link) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-map-knowledge?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+
+```text
+https://github.com/Sephral/sephrals-map-knowledge/releases/latest/download/module.json
+```
 
 </td>
 </tr>
@@ -134,7 +142,11 @@ The party found the old map of the dungeon, or the scout came back and drew what
 
 Rest the pointer on a token and see its health, armor, speed and conditions. The GM decides for every value who sees it and how, exact numbers or a word like bloodied, for party members, friends and foes. Hold Alt to read the whole battlefield at once, and add your own values from a list of common ones.
 
-[Manifest URL](https://github.com/Sephral/sephrals-token-tooltips/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-token-tooltips) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-token-tooltips?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+[GitHub](https://github.com/Sephral/sephrals-token-tooltips) · [How to install](#install-by-link) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-token-tooltips?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+
+```text
+https://github.com/Sephral/sephrals-token-tooltips/releases/latest/download/module.json
+```
 
 </td>
 </tr>
@@ -147,7 +159,11 @@ Rest the pointer on a token and see its health, armor, speed and conditions. The
 
 Save a group of monsters once and put it on any map in seconds. A ghost preview follows the pointer, Q and E turn the formation, counts like 1d4+1 goblins are rolled anew each time, and place and fight starts the combat with initiative. Pins mark where an encounter waits, and unique villains never stand twice on a scene.
 
-[Manifest URL](https://github.com/Sephral/sephrals-saved-encounters/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-saved-encounters) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-saved-encounters?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+[GitHub](https://github.com/Sephral/sephrals-saved-encounters) · [How to install](#install-by-link) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-saved-encounters?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+
+```text
+https://github.com/Sephral/sephrals-saved-encounters/releases/latest/download/module.json
+```
 
 </td>
 </tr>
@@ -160,7 +176,11 @@ Save a group of monsters once and put it on any map in seconds. A ghost preview 
 
 Ask the group for a roll with Alt+R and watch every result arrive on one live card. Show the DC or keep it secret, make it a group check, keep the results for the GM and let NPCs roll at once. Players roll with one click through their own system's dialog.
 
-[Manifest URL](https://github.com/Sephral/sephrals-roll-requests/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-roll-requests) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-roll-requests?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+[GitHub](https://github.com/Sephral/sephrals-roll-requests) · [How to install](#install-by-link) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-roll-requests?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+
+```text
+https://github.com/Sephral/sephrals-roll-requests/releases/latest/download/module.json
+```
 
 </td>
 </tr>
@@ -173,7 +193,11 @@ Ask the group for a roll with Alt+R and watch every result arrive on one live ca
 
 Finds out why Foundry is slow and helps fix it. It spots a browser that draws without the graphics card, settings that cost too much, heavy maps and slow lines, and measures how much time every module takes. Players get help step by step, the GM sees the whole table and turns huge maps into small WebP copies with one click.
 
-[Manifest URL](https://github.com/Sephral/sephrals-performance-doctor/releases/latest/download/module.json) · [GitHub](https://github.com/Sephral/sephrals-performance-doctor) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-performance-doctor?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+[GitHub](https://github.com/Sephral/sephrals-performance-doctor) · [How to install](#install-by-link) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-performance-doctor?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+
+```text
+https://github.com/Sephral/sephrals-performance-doctor/releases/latest/download/module.json
+```
 
 </td>
 </tr>
@@ -334,6 +358,18 @@ Records every fight round by round: damage, healing, takedowns, close calls and 
 </td>
 </tr>
 </table>
+
+## Install by link
+
+A module that is not in Foundry's module search installs by its link, the manifest URL. Copy the link from the module above, then:
+
+1. In Foundry's setup screen open **Add-on Modules** and click **Install Module**.
+2. Paste the link into **Manifest URL** at the bottom of the window.
+3. Click **Install**, then enable the module in your world.
+
+On The Forge open the Bazaar, click **Install From Manifest** and paste the link.
+
+<img src="media/install.gif" width="800" alt="Installing a module by its link in Foundry's setup screen">
 
 ## Support
 
