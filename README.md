@@ -179,7 +179,7 @@ https://github.com/Sephral/sephrals-saved-encounters/releases/latest/download/mo
 ### [Roll Requests](https://github.com/Sephral/sephrals-roll-requests)
 <sub>Foundry v13 and v14 · any system, built in support for D&amp;D 5e, Pathfinder 2e, Savage Worlds and Crucible</sub>
 
-Ask the group for a roll with Alt+R and watch every result arrive on one live card. Show the DC or keep it secret, make it a group check, keep the results for the GM and let NPCs roll at once. Players roll with one click through their own system's dialog.
+Ask the group for a roll with Alt+R and watch every result arrive on one live card. Every roll is a button. Keep the DC secret, let each player pick a roll, make it a group check or roll silently so nobody notices. Players roll with one click through their own system's dialog.
 
 [GitHub](https://github.com/Sephral/sephrals-roll-requests) · [How to install](#install-by-link) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-roll-requests?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
