@@ -48,7 +48,7 @@ https://github.com/Sephral/sephrals-performance-doctor/releases/latest/download/
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-crucible-sheet-quickbar"><img src="media/scsq.gif" width="396" alt="Crucible Sheet &amp; Quickbar in action"></a>
+<a href="https://github.com/Sephral/sephrals-crucible-sheet-quickbar"><img src="media/scsq.gif" width="395" alt="Crucible Sheet &amp; Quickbar in action"></a>
 
 ### [Crucible Sheet & Quickbar](https://github.com/Sephral/sephrals-crucible-sheet-quickbar)
 
@@ -60,7 +60,7 @@ https://github.com/Sephral/sephrals-performance-doctor/releases/latest/download/
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-crucible-combat-pulse"><img src="media/sccp.gif" width="396" alt="Crucible Combat Pulse in action"></a>
+<a href="https://github.com/Sephral/sephrals-crucible-combat-pulse"><img src="media/sccp.gif" width="395" alt="Crucible Combat Pulse in action"></a>
 
 ### [Crucible Combat Pulse](https://github.com/Sephral/sephrals-crucible-combat-pulse)
 
@@ -74,7 +74,7 @@ https://github.com/Sephral/sephrals-performance-doctor/releases/latest/download/
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-vista-portrait-switcher"><img src="media/svps.gif" width="396" alt="Vista Portrait Switcher in action"></a>
+<a href="https://github.com/Sephral/sephrals-vista-portrait-switcher"><img src="media/svps.gif" width="395" alt="Vista Portrait Switcher in action"></a>
 
 ### [Vista Portrait Switcher](https://github.com/Sephral/sephrals-vista-portrait-switcher)
 
@@ -86,7 +86,7 @@ https://github.com/Sephral/sephrals-performance-doctor/releases/latest/download/
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-lunar-almanac"><img src="media/sla.gif" width="396" alt="Lunar Almanac in action"></a>
+<a href="https://github.com/Sephral/sephrals-lunar-almanac"><img src="media/sla.gif" width="395" alt="Lunar Almanac in action"></a>
 
 ### [Lunar Almanac](https://github.com/Sephral/sephrals-lunar-almanac)
 
@@ -109,7 +109,7 @@ What everyone at the table sees, rolls and remembers.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-swift-dice"><img src="media/ssd.gif" width="396" alt="Swift Dice in action"></a>
+<a href="https://github.com/Sephral/sephrals-swift-dice"><img src="media/ssd.gif" width="395" alt="Swift Dice in action"></a>
 
 ### [Swift Dice](https://github.com/Sephral/sephrals-swift-dice)
 
@@ -120,7 +120,7 @@ What everyone at the table sees, rolls and remembers.
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-tavern-games"><img src="media/stg.gif" width="396" alt="Tavern Games in action"></a>
+<a href="https://github.com/Sephral/sephrals-tavern-games"><img src="media/stg.gif" width="395" alt="Tavern Games in action"></a>
 
 ### [Tavern Games](https://github.com/Sephral/sephrals-tavern-games)
 
@@ -133,7 +133,7 @@ What everyone at the table sees, rolls and remembers.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-campaign-album"><img src="media/sca.gif" width="396" alt="Campaign Album in action"></a>
+<a href="https://github.com/Sephral/sephrals-campaign-album"><img src="media/sca.gif" width="395" alt="Campaign Album in action"></a>
 
 ### [Campaign Album](https://github.com/Sephral/sephrals-campaign-album)
 
@@ -144,7 +144,7 @@ What everyone at the table sees, rolls and remembers.
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-table-compass"><img src="media/stc.gif" width="396" alt="Table Compass in action"></a>
+<a href="https://github.com/Sephral/sephrals-table-compass"><img src="media/stc.gif" width="395" alt="Table Compass in action"></a>
 
 ### [Table Compass](https://github.com/Sephral/sephrals-table-compass)
 
@@ -157,7 +157,7 @@ What everyone at the table sees, rolls and remembers.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-roll-breakdown"><img src="media/srb.gif" width="396" alt="Roll Breakdown in action"></a>
+<a href="https://github.com/Sephral/sephrals-roll-breakdown"><img src="media/srb.gif" width="395" alt="Roll Breakdown in action"></a>
 
 ### [Roll Breakdown](https://github.com/Sephral/sephrals-roll-breakdown)
 
@@ -169,7 +169,7 @@ What everyone at the table sees, rolls and remembers.
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-combat-log-stats"><img src="media/scls.gif" width="396" alt="Combat Log &amp; Stats in action"></a>
+<a href="https://github.com/Sephral/sephrals-combat-log-stats"><img src="media/scls.gif" width="395" alt="Combat Log &amp; Stats in action"></a>
 
 ### [Combat Log & Stats](https://github.com/Sephral/sephrals-combat-log-stats)
 
@@ -190,7 +190,7 @@ Less clicking for the GM while the game goes on.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-roll-requests"><img src="media/srr.gif" width="396" alt="Roll Requests in action"></a>
+<a href="https://github.com/Sephral/sephrals-roll-requests"><img src="media/srr.gif" width="395" alt="Roll Requests in action"></a>
 
 ### [Roll Requests](https://github.com/Sephral/sephrals-roll-requests)
 
@@ -202,7 +202,7 @@ Less clicking for the GM while the game goes on.
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-saved-encounters"><img src="media/sse.gif" width="396" alt="Saved Encounters in action"></a>
+<a href="https://github.com/Sephral/sephrals-saved-encounters"><img src="media/sse.gif" width="395" alt="Saved Encounters in action"></a>
 
 ### [Saved Encounters](https://github.com/Sephral/sephrals-saved-encounters)
 
@@ -215,7 +215,7 @@ Less clicking for the GM while the game goes on.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-map-knowledge"><img src="media/smk.gif" width="396" alt="Map Knowledge in action"></a>
+<a href="https://github.com/Sephral/sephrals-map-knowledge"><img src="media/smk.gif" width="395" alt="Map Knowledge in action"></a>
 
 ### [Map Knowledge](https://github.com/Sephral/sephrals-map-knowledge)
 
@@ -227,7 +227,7 @@ Less clicking for the GM while the game goes on.
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-handout-lens"><img src="media/shl.gif" width="396" alt="Handout Lens in action"></a>
+<a href="https://github.com/Sephral/sephrals-handout-lens"><img src="media/shl.gif" width="395" alt="Handout Lens in action"></a>
 
 ### [Handout Lens](https://github.com/Sephral/sephrals-handout-lens)
 
@@ -240,7 +240,7 @@ Less clicking for the GM while the game goes on.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-token-tooltips"><img src="media/stt.gif" width="396" alt="Token Tooltips in action"></a>
+<a href="https://github.com/Sephral/sephrals-token-tooltips"><img src="media/stt.gif" width="395" alt="Token Tooltips in action"></a>
 
 ### [Token Tooltips](https://github.com/Sephral/sephrals-token-tooltips)
 
@@ -252,7 +252,7 @@ Less clicking for the GM while the game goes on.
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-loot-ledger"><img src="media/sll.gif" width="396" alt="Loot Ledger in action"></a>
+<a href="https://github.com/Sephral/sephrals-loot-ledger"><img src="media/sll.gif" width="395" alt="Loot Ledger in action"></a>
 
 ### [Loot Ledger](https://github.com/Sephral/sephrals-loot-ledger)
 
@@ -266,7 +266,7 @@ Less clicking for the GM while the game goes on.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-roll-triggers"><img src="media/srt.gif" width="396" alt="Roll Triggers in action"></a>
+<a href="https://github.com/Sephral/sephrals-roll-triggers"><img src="media/srt.gif" width="395" alt="Roll Triggers in action"></a>
 
 ### [Roll Triggers](https://github.com/Sephral/sephrals-roll-triggers)
 
@@ -278,7 +278,7 @@ Less clicking for the GM while the game goes on.
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-player-notes"><img src="media/spn.gif" width="396" alt="Player Notes in action"></a>
+<a href="https://github.com/Sephral/sephrals-player-notes"><img src="media/spn.gif" width="395" alt="Player Notes in action"></a>
 
 ### [Player Notes](https://github.com/Sephral/sephrals-player-notes)
 
@@ -298,7 +298,7 @@ Keep the world in order between sessions.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-image-paste-drop"><img src="media/sipd.gif" width="396" alt="Image Paste &amp; Drop in action"></a>
+<a href="https://github.com/Sephral/sephrals-image-paste-drop"><img src="media/sipd.gif" width="395" alt="Image Paste &amp; Drop in action"></a>
 
 ### [Image Paste & Drop](https://github.com/Sephral/sephrals-image-paste-drop)
 
@@ -309,7 +309,7 @@ Keep the world in order between sessions.
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-content-backup-restore"><img src="media/scbr.gif" width="396" alt="Content Backup &amp; Restore in action"></a>
+<a href="https://github.com/Sephral/sephrals-content-backup-restore"><img src="media/scbr.gif" width="395" alt="Content Backup &amp; Restore in action"></a>
 
 ### [Content Backup & Restore](https://github.com/Sephral/sephrals-content-backup-restore)
 
@@ -322,7 +322,7 @@ Keep the world in order between sessions.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-module-loadouts"><img src="media/sml.gif" width="396" alt="Module Loadouts in action"></a>
+<a href="https://github.com/Sephral/sephrals-module-loadouts"><img src="media/sml.gif" width="395" alt="Module Loadouts in action"></a>
 
 ### [Module Loadouts](https://github.com/Sephral/sephrals-module-loadouts)
 
@@ -333,7 +333,7 @@ Keep the world in order between sessions.
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-file-commander"><img src="media/sfc.gif" width="396" alt="File Commander in action"></a>
+<a href="https://github.com/Sephral/sephrals-file-commander"><img src="media/sfc.gif" width="395" alt="File Commander in action"></a>
 
 ### [File Commander](https://github.com/Sephral/sephrals-file-commander)
 
@@ -362,7 +362,7 @@ On The Forge open the Bazaar, click **Install From Manifest** and paste the link
 </td>
 <td width="50%" valign="top">
 
-<img src="media/install.gif" width="396" alt="Installing a module by its link in Foundry's setup screen">
+<img src="media/install.gif" width="395" alt="Installing a module by its link in Foundry's setup screen">
 
 </td>
 </tr>
