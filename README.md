@@ -1,92 +1,99 @@
 ## Hi, I'm Sephral
 
-I build modules for [Foundry Virtual Tabletop](https://foundryvtt.com). They are free, and every one of them comes in English and German.
+I build modules for [Foundry Virtual Tabletop](https://foundryvtt.com). All 23 are free, and every one of them comes in English and German. For Foundry v13 and v14, with any game system unless a module says otherwise.
 
-You find them in Foundry's own module browser: search for **Sephral**. One is not in that search: Performance Doctor. It installs by its link, and it takes a minute: [here is how](#install-by-link).
+You find them in Foundry's own module browser: search for **Sephral**. One is not in that search: Performance Doctor, which installs by its link right below.
+
+**Jump to:** [Crucible and Ember](#made-for-crucible-and-ember) · [At the table](#at-the-table) · [Running the game](#running-the-game) · [Behind the scenes](#behind-the-scenes) · [Install by link](#install-by-link) · [Support](#support)
 
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/7BjCgDYaBP)
 
-**Jump to:** [Crucible and Ember](#made-for-crucible-and-ember) · [Every system](#modules-for-every-system) · [Install by link](#install-by-link) · [Support](#support)
+---
+
+<a href="https://github.com/Sephral/sephrals-performance-doctor"><img src="media/banner.svg" width="848" alt="Performance Doctor for Foundry VTT. Five frames per second on a strong computer? It finds out why Foundry is slow and fixes it with you."></a>
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-performance-doctor"><img src="media/spd.gif" width="464" alt="Performance Doctor names the cause of a slow game and offers the fix"></a>
+
+</td>
+<td width="42%" valign="top">
+
+### [Performance Doctor](https://github.com/Sephral/sephrals-performance-doctor)
+
+* Names the cause in plain words
+* **Make my game faster:** one click, and everything can be undone
+* Shows which module eats the time
+* The GM sees the whole table
+
+[GitHub](https://github.com/Sephral/sephrals-performance-doctor) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-performance-doctor?label=release&color=c4500f" alt="Latest release" valign="middle">
+
+</td>
+</tr>
+</table>
+
+Not in Foundry's module search. Copy this link and paste it as Manifest URL, [here is how](#install-by-link).
+
+```text
+https://github.com/Sephral/sephrals-performance-doctor/releases/latest/download/module.json
+```
 
 ## Made for Crucible and Ember
 
-**Crucible** is the game system built only for Foundry. **Ember** is the open world campaign from the Foundry team, playable with Crucible or D&D 5e. These four modules bring more to that table: a sheet that keeps up with fast turns, a combat tracker that shows what Crucible keeps hidden, NPCs that change their mood in the Vistas and an almanac for the moons above Ember.
-
-All four need Foundry v14. Vista Portrait Switcher and Lunar Almanac work with your own copy of Ember and contain none of its content.
+**Crucible** is the game system built only for Foundry. **Ember** is the open world campaign from the Foundry team, playable with Crucible or D&D 5e. All four need Foundry v14. The two Ember modules work with your own copy of Ember and contain none of its content.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-crucible-sheet-quickbar"><img src="media/scsq.gif" width="380" alt="Crucible Sheet &amp; Quickbar in action"></a>
+<a href="https://github.com/Sephral/sephrals-crucible-sheet-quickbar"><img src="media/scsq.gif" width="396" alt="Crucible Sheet &amp; Quickbar in action"></a>
 
 ### [Crucible Sheet & Quickbar](https://github.com/Sephral/sephrals-crucible-sheet-quickbar)
-<sub>Foundry v14 · Crucible · Ember optional</sub>
 
 **Everything your hero can do, on one compact sheet.** When the fight starts, it shrinks into a quickbar that stays on the map.
 
-* Resources and defenses always in view
-* Shows which actions you can pay right now
-* A spellbook for composed spells
-* Maintain your effects right from the sheet
-* Each player picks it for their own heroes
-
-[Foundry package](https://foundryvtt.com/packages/sephrals-crucible-sheet-quickbar) · [GitHub](https://github.com/Sephral/sephrals-crucible-sheet-quickbar) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-crucible-sheet-quickbar?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+[Foundry package](https://foundryvtt.com/packages/sephrals-crucible-sheet-quickbar) · [GitHub](https://github.com/Sephral/sephrals-crucible-sheet-quickbar) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-crucible-sheet-quickbar?label=release&color=c4500f" alt="Latest release" valign="middle"><br>
+<sub>Foundry v14 · Crucible · Ember optional</sub>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-crucible-combat-pulse"><img src="media/sccp.gif" width="380" alt="Crucible Combat Pulse in action"></a>
+<a href="https://github.com/Sephral/sephrals-crucible-combat-pulse"><img src="media/sccp.gif" width="396" alt="Crucible Combat Pulse in action"></a>
 
 ### [Crucible Combat Pulse](https://github.com/Sephral/sephrals-crucible-combat-pulse)
-<sub>Foundry v14 · Crucible</sub>
 
 **Crucible fights have a pulse nobody at the table can see.** Combat Pulse puts it into the combat tracker.
 
-* Exact progress to the next Heroism point
-* Countdown to the Morale escalation
-* Forecast of everyone's next initiative
-* Never rolls dice or changes an actor
-
-[Foundry package](https://foundryvtt.com/packages/sephrals-crucible-combat-pulse) · [GitHub](https://github.com/Sephral/sephrals-crucible-combat-pulse) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-crucible-combat-pulse?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+[Foundry package](https://foundryvtt.com/packages/sephrals-crucible-combat-pulse) · [GitHub](https://github.com/Sephral/sephrals-crucible-combat-pulse) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-crucible-combat-pulse?label=release&color=c4500f" alt="Latest release" valign="middle"><br>
+<sub>Foundry v14 · Crucible</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-vista-portrait-switcher"><img src="media/svps.gif" width="380" alt="Vista Portrait Switcher in action"></a>
+<a href="https://github.com/Sephral/sephrals-vista-portrait-switcher"><img src="media/svps.gif" width="396" alt="Vista Portrait Switcher in action"></a>
 
 ### [Vista Portrait Switcher](https://github.com/Sephral/sephrals-vista-portrait-switcher)
+
+**Bring the NPCs in Ember's Vistas to life.** One click, and the figure changes with a soft transition.
+
+[Foundry package](https://foundryvtt.com/packages/sephrals-vista-portrait-switcher) · [GitHub](https://github.com/Sephral/sephrals-vista-portrait-switcher) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-vista-portrait-switcher?label=release&color=c4500f" alt="Latest release" valign="middle"><br>
 <sub>Foundry v14 · Ember with Crucible or D&amp;D 5e</sub>
-
-**Bring the NPCs in Ember's Vistas to life.** The merchant turns suspicious, the guard reaches for his sword. One click, and the figure changes with a soft transition.
-
-* Any number of portraits per character
-* A palette right in the token HUD
-* Import a whole folder in seconds
-* Players can switch their own heroes too
-
-[Foundry package](https://foundryvtt.com/packages/sephrals-vista-portrait-switcher) · [GitHub](https://github.com/Sephral/sephrals-vista-portrait-switcher) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-vista-portrait-switcher?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sephral/sephrals-lunar-almanac"><img src="media/sla.gif" width="380" alt="Lunar Almanac in action"></a>
+<a href="https://github.com/Sephral/sephrals-lunar-almanac"><img src="media/sla.gif" width="396" alt="Lunar Almanac in action"></a>
 
 ### [Lunar Almanac](https://github.com/Sephral/sephrals-lunar-almanac)
+
+**When does the next full moon rise over Ember?** Ember's calendar shows today's sky. The almanac shows what comes next.
+
+[Foundry package](https://foundryvtt.com/packages/sephrals-lunar-almanac) · [GitHub](https://github.com/Sephral/sephrals-lunar-almanac) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-lunar-almanac?label=release&color=c4500f" alt="Latest release" valign="middle"><br>
 <sub>Foundry v14 · Ember, tested with Crucible</sub>
-
-**When does the next full moon rise over Ember, and which heroes are waiting for it?** Ember's calendar shows today's sky. The almanac shows what comes next.
-
-* Moons and inner realms with their phases
-* A timeline of the coming 30 days and half a year for the inner realms
-* A look at any other day without changing the time
-* The heroes of your party attuned to each moon
-* The weather and the coming wind where the party is
-* A message when a moon becomes full
-
-[Foundry package](https://foundryvtt.com/packages/sephrals-lunar-almanac) · [GitHub](https://github.com/Sephral/sephrals-lunar-almanac) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-lunar-almanac?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
 </td>
 </tr>
@@ -94,259 +101,245 @@ All four need Foundry v14. Vista Portrait Switcher and Lunar Almanac work with y
 
 <sub>The previews use Crucible's pregenerated heroes and stand in art made for the demos. They show no Ember content.</sub>
 
-## Modules for every system
+## At the table
 
-For Foundry v13 and v14, with any game system. Map Knowledge needs Foundry v14.
+What everyone at the table sees, rolls and remembers.
 
 <table>
 <tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-swift-dice"><img src="media/ssd.gif" width="300" alt="Swift Dice"></a></td>
-<td valign="top">
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-swift-dice"><img src="media/ssd.gif" width="396" alt="Swift Dice in action"></a>
 
 ### [Swift Dice](https://github.com/Sephral/sephrals-swift-dice)
-<sub>Foundry v13 and v14 · any system</sub>
 
-Light 3D dice for every roll that never hold up the game. Everyone sees the same throw at the same moment, and the chat card shows its result when the dice lie still. Dice come in each player's Foundry color or a look of their own, with thirty ready looks, seventeen class looks, thirteen ways to throw and big moments that fit your game system. No WebGL and no physics engine, so they run on old laptops, tablets and in Firefox.
+**Light 3D dice for every roll that never hold up the game.** No WebGL and no physics engine, so they run on old laptops, tablets and in Firefox.
 
-[Foundry package](https://foundryvtt.com/packages/sephrals-swift-dice) · [GitHub](https://github.com/Sephral/sephrals-swift-dice) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-swift-dice?label=release&color=fe6a1f" alt="Latest release" valign="middle">
-
-</td>
-</tr>
-<tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-handout-lens"><img src="media/shl.gif" width="300" alt="Handout Lens"></a></td>
-<td valign="top">
-
-### [Handout Lens](https://github.com/Sephral/sephrals-handout-lens)
-<sub>Foundry v13 and v14 · any system</sub>
-
-The GM shows a letter or an old map and the writing is too small to read. Handout Lens lets players zoom in, hold Shift for a magnifying lens, read with contrast and turn aids, and page through the notes on a picture one by one. Every shown handout lands in a folder, and players who join later still get the last picture.
-
-[Foundry package](https://foundryvtt.com/packages/sephrals-handout-lens) · [GitHub](https://github.com/Sephral/sephrals-handout-lens) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-handout-lens?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+[Foundry package](https://foundryvtt.com/packages/sephrals-swift-dice) · [GitHub](https://github.com/Sephral/sephrals-swift-dice) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-swift-dice?label=release&color=c4500f" alt="Latest release" valign="middle">
 
 </td>
-</tr>
-<tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-map-knowledge"><img src="media/smk.gif" width="300" alt="Map Knowledge"></a></td>
-<td valign="top">
+<td width="50%" valign="top">
 
-### [Map Knowledge](https://github.com/Sephral/sephrals-map-knowledge)
-<sub>Foundry v14 · any system</sub>
-
-The party found the old map of the dungeon, or the scout came back and drew what she saw. Mark those parts of the map as known with a rectangle, an ellipse, a polygon or a whole room by its walls, for everyone or for chosen players. It all goes into Foundry's own fog of war, so token vision keeps working and monsters stay hidden until real sight reaches them.
-
-[Foundry package](https://foundryvtt.com/packages/sephrals-map-knowledge) · [GitHub](https://github.com/Sephral/sephrals-map-knowledge) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-map-knowledge?label=release&color=fe6a1f" alt="Latest release" valign="middle">
-
-</td>
-</tr>
-<tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-token-tooltips"><img src="media/stt.gif" width="300" alt="Token Tooltips"></a></td>
-<td valign="top">
-
-### [Token Tooltips](https://github.com/Sephral/sephrals-token-tooltips)
-<sub>Foundry v13 and v14 · any system, presets for D&amp;D 5e, Pathfinder 2e, Savage Worlds and Crucible</sub>
-
-Rest the pointer on a token and see its health, armor, speed and conditions. The GM decides for every value who sees it and how, exact numbers or a word like bloodied, for party members, friends and foes. Hold Alt to read the whole battlefield at once, and add your own values from a list of common ones.
-
-[Foundry package](https://foundryvtt.com/packages/sephrals-token-tooltips) · [GitHub](https://github.com/Sephral/sephrals-token-tooltips) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-token-tooltips?label=release&color=fe6a1f" alt="Latest release" valign="middle">
-
-</td>
-</tr>
-<tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-saved-encounters"><img src="media/sse.gif" width="300" alt="Saved Encounters"></a></td>
-<td valign="top">
-
-### [Saved Encounters](https://github.com/Sephral/sephrals-saved-encounters)
-<sub>Foundry v13 and v14 · any system</sub>
-
-Save a group of monsters once and put it on any map in seconds. A ghost preview follows the pointer, Q and E turn the formation, counts like 1d4+1 goblins are rolled anew each time, and place and fight starts the combat with initiative. Pins mark where an encounter waits, and unique villains never stand twice on a scene.
-
-[Foundry package](https://foundryvtt.com/packages/sephrals-saved-encounters) · [GitHub](https://github.com/Sephral/sephrals-saved-encounters) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-saved-encounters?label=release&color=fe6a1f" alt="Latest release" valign="middle">
-
-</td>
-</tr>
-<tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-roll-requests"><img src="media/srr.gif" width="300" alt="Roll Requests"></a></td>
-<td valign="top">
-
-### [Roll Requests](https://github.com/Sephral/sephrals-roll-requests)
-<sub>Foundry v13 and v14 · any system, built in support for D&amp;D 5e, Pathfinder 2e, Savage Worlds and Crucible</sub>
-
-Ask the group for a roll with Alt+R and watch every result arrive on one live card. Every roll is a button. Keep the DC secret, let each player pick a roll, make it a group check or roll silently so nobody notices. Players roll with one click through their own system's dialog.
-
-[Foundry package](https://foundryvtt.com/packages/sephrals-roll-requests) · [GitHub](https://github.com/Sephral/sephrals-roll-requests) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-roll-requests?label=release&color=fe6a1f" alt="Latest release" valign="middle">
-
-</td>
-</tr>
-<tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-performance-doctor"><img src="media/spd.gif" width="300" alt="Performance Doctor"></a></td>
-<td valign="top">
-
-### [Performance Doctor](https://github.com/Sephral/sephrals-performance-doctor)
-<sub>Foundry v13 and v14 · any system</sub>
-
-Finds out why Foundry is slow and helps fix it. It spots a browser that draws without the graphics card, settings that cost too much, heavy maps and slow lines, and measures how much time every module takes. Players get help step by step, the GM sees the whole table and turns huge maps into small WebP copies with one click.
-
-[GitHub](https://github.com/Sephral/sephrals-performance-doctor) · [How to install](#install-by-link) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-performance-doctor?label=release&color=fe6a1f" alt="Latest release" valign="middle">
-
-```text
-https://github.com/Sephral/sephrals-performance-doctor/releases/latest/download/module.json
-```
-
-</td>
-</tr>
-<tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-campaign-album"><img src="media/sca.gif" width="300" alt="Campaign Album"></a></td>
-<td valign="top">
-
-### [Campaign Album](https://github.com/Sephral/sephrals-campaign-album)
-<sub>Foundry v13 and v14 · any system</sub>
-
-Photos of the big moments, exactly as your players saw them. Critical hits, fallen bosses, victories, farewells, level ups and the sunrise of a new day land in the album on their own, one page per session, with a slideshow for the end of the evening. Players can send in their own photos for the GM to add.
-
-[Foundry package](https://foundryvtt.com/packages/sephrals-campaign-album) · [GitHub](https://github.com/Sephral/sephrals-campaign-album) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-campaign-album?label=release&color=fe6a1f" alt="Latest release" valign="middle">
-
-</td>
-</tr>
-<tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-table-compass"><img src="media/stc.gif" width="300" alt="Table Compass"></a></td>
-<td valign="top">
-
-### [Table Compass](https://github.com/Sephral/sephrals-table-compass)
-<sub>Foundry v13 and v14 · any system</sub>
-
-Anonymous feedback from the players to the GM. Scales for pace, tension, roleplay and combat with fine in the middle, quick signals like a break or the X card, wishes for the next scenes, a scene check and a feedback round at the end of the session. The GM sees the mood of the table in one small window, never who said what.
-
-[Foundry package](https://foundryvtt.com/packages/sephrals-table-compass) · [GitHub](https://github.com/Sephral/sephrals-table-compass) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-table-compass?label=release&color=fe6a1f" alt="Latest release" valign="middle">
-
-</td>
-</tr>
-<tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-tavern-games"><img src="media/stg.gif" width="300" alt="Tavern Games"></a></td>
-<td valign="top">
+<a href="https://github.com/Sephral/sephrals-tavern-games"><img src="media/stg.gif" width="396" alt="Tavern Games in action"></a>
 
 ### [Tavern Games](https://github.com/Sephral/sephrals-tavern-games)
-<sub>Foundry v13 and v14 · any system</sub>
 
-Games for the tavern table: tic tac toe, four in a row, nine men's morris, the matchstick game, Pig, liar's dice, ship captain and crew, and twenty one against the house. Play against each other or against the regulars of the inn while the rest of the group watches. Every game comes with a short guide in the tongue of old.
+**Eight games for the tavern table.** From nine men's morris to liar's dice. Play against each other or the regulars of the inn.
 
-[Foundry package](https://foundryvtt.com/packages/sephrals-tavern-games) · [GitHub](https://github.com/Sephral/sephrals-tavern-games) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-tavern-games?label=release&color=fe6a1f" alt="Latest release" valign="middle">
-
-</td>
-</tr>
-<tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-loot-ledger"><img src="media/sll.gif" width="300" alt="Loot Ledger"></a></td>
-<td valign="top">
-
-### [Loot Ledger](https://github.com/Sephral/sephrals-loot-ledger)
-<sub>Foundry v13 and v14 · any system, built in support for Crucible and D&amp;D 5e</sub>
-
-A shared party inventory with a fair loot table. Players open any item with a click to read what it does, mark Need, Want or Pass, coins are split without losing a copper, loot nobody wants goes into the party inventory, and every handover is written into a log all players can read. Tables with their own exchange rates in D&D 5e set what each coin is worth.
-
-[Foundry package](https://foundryvtt.com/packages/sephrals-loot-ledger) · [GitHub](https://github.com/Sephral/sephrals-loot-ledger) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-loot-ledger?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+[Foundry package](https://foundryvtt.com/packages/sephrals-tavern-games) · [GitHub](https://github.com/Sephral/sephrals-tavern-games) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-tavern-games?label=release&color=c4500f" alt="Latest release" valign="middle">
 
 </td>
 </tr>
 <tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-image-paste-drop"><img src="media/sipd.gif" width="300" alt="Image Paste &amp; Drop"></a></td>
-<td valign="top">
+<td width="50%" valign="top">
 
-### [Image Paste & Drop](https://github.com/Sephral/sephrals-image-paste-drop)
-<sub>Foundry v13 and v14 · any system</sub>
+<a href="https://github.com/Sephral/sephrals-campaign-album"><img src="media/sca.gif" width="396" alt="Campaign Album in action"></a>
 
-Paste an image with Ctrl+V or drop it onto Foundry and decide what it becomes: a new scene, the background of the current scene, a tile, a journal page, a map pin, a token image, a portrait, a chat post or a picture shown to the players you pick. WebM and MP4 videos work the same way, and a map named Tavern 30x20 becomes a scene with a grid that fits. Alt+V sends the copied image to your usual target, Alt+P shows it to the players at once. Several images go into one journal or a tile grid at once, and large images are made smaller before the upload.
+### [Campaign Album](https://github.com/Sephral/sephrals-campaign-album)
 
-[Foundry package](https://foundryvtt.com/packages/sephrals-image-paste-drop) · [GitHub](https://github.com/Sephral/sephrals-image-paste-drop) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-image-paste-drop?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+**Photos of the big moments, exactly as your players saw them.** One page per session, with a slideshow for the end of the evening.
+
+[Foundry package](https://foundryvtt.com/packages/sephrals-campaign-album) · [GitHub](https://github.com/Sephral/sephrals-campaign-album) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-campaign-album?label=release&color=c4500f" alt="Latest release" valign="middle">
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-table-compass"><img src="media/stc.gif" width="396" alt="Table Compass in action"></a>
+
+### [Table Compass](https://github.com/Sephral/sephrals-table-compass)
+
+**Anonymous feedback from the players to the GM.** The GM sees the mood of the table in one small window, never who said what.
+
+[Foundry package](https://foundryvtt.com/packages/sephrals-table-compass) · [GitHub](https://github.com/Sephral/sephrals-table-compass) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-table-compass?label=release&color=c4500f" alt="Latest release" valign="middle">
 
 </td>
 </tr>
 <tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-content-backup-restore"><img src="media/scbr.gif" width="300" alt="Content Backup &amp; Restore"></a></td>
-<td valign="top">
+<td width="50%" valign="top">
 
-### [Content Backup & Restore](https://github.com/Sephral/sephrals-content-backup-restore)
-<sub>Foundry v13 and v14 · any system</sub>
-
-Named backups for scenes, actors, items, journals, playlists, macros, roll tables and cards. Restore a document from any of its backups or recover one that was deleted. Backups are one right click away in the sidebar.
-
-[Foundry package](https://foundryvtt.com/packages/sephrals-content-backup-restore) · [GitHub](https://github.com/Sephral/sephrals-content-backup-restore) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-content-backup-restore?label=release&color=fe6a1f" alt="Latest release" valign="middle">
-
-</td>
-</tr>
-<tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-roll-triggers"><img src="media/srt.gif" width="300" alt="Roll Triggers"></a></td>
-<td valign="top">
-
-### [Roll Triggers](https://github.com/Sephral/sephrals-roll-triggers)
-<sub>Foundry v13 and v14 · any system, works with D&amp;D 5e 5.x and 6.x, MidiQOL and Ready Set Roll</sub>
-
-House rules for special rolls: natural 20s, fumbles, doubles, exact values and more. A trigger can post a message, roll on a table, run a macro, play a sound, show an image, apply a condition or change hit points, or wait until the GM confirms it. Filters limit a trigger to certain actors or to one weapon or spell. A test bench shows with dice of your choice which triggers fire and why. Starter profiles for many popular systems are included.
-
-[Foundry package](https://foundryvtt.com/packages/sephrals-roll-triggers) · [GitHub](https://github.com/Sephral/sephrals-roll-triggers) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-roll-triggers?label=release&color=fe6a1f" alt="Latest release" valign="middle">
-
-</td>
-</tr>
-<tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-roll-breakdown"><img src="media/srb.gif" width="300" alt="Roll Breakdown"></a></td>
-<td valign="top">
+<a href="https://github.com/Sephral/sephrals-roll-breakdown"><img src="media/srb.gif" width="396" alt="Roll Breakdown in action"></a>
 
 ### [Roll Breakdown](https://github.com/Sephral/sephrals-roll-breakdown)
-<sub>Foundry v13 and v14 · any system, extra details for D&amp;D 5e (5.x and 6.x), Crucible, Pathfinder 2e and Savage Worlds, works with MidiQOL and Ready Set Roll</sub>
 
-Adds a compact panel to roll messages that shows where every number comes from: dice, modifiers and the parts of a formula that stay unresolved. In D&D 5e it also lists the reasons for advantage and disadvantage when the roll data provides them.
+**See where every number comes from.** A compact panel on roll messages shows the dice, the modifiers and the reasons for advantage.
 
-[Foundry package](https://foundryvtt.com/packages/sephrals-roll-breakdown) · [GitHub](https://github.com/Sephral/sephrals-roll-breakdown) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-roll-breakdown?label=release&color=fe6a1f" alt="Latest release" valign="middle">
-
-</td>
-</tr>
-<tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-player-notes"><img src="media/spn.gif" width="300" alt="Player Notes"></a></td>
-<td valign="top">
-
-### [Player Notes](https://github.com/Sephral/sephrals-player-notes)
-<sub>Foundry v13 and v14 · any system</sub>
-
-Private GM notes attached to player characters: story hooks, secrets, promises, debts and reminders for the next session. A dashboard shows what is still open for the whole party.
-
-[Foundry package](https://foundryvtt.com/packages/sephrals-player-notes) · [GitHub](https://github.com/Sephral/sephrals-player-notes) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-player-notes?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+[Foundry package](https://foundryvtt.com/packages/sephrals-roll-breakdown) · [GitHub](https://github.com/Sephral/sephrals-roll-breakdown) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-roll-breakdown?label=release&color=c4500f" alt="Latest release" valign="middle"><br>
+<sub>Extra details for D&amp;D 5e, Crucible, Pathfinder 2e and Savage Worlds · works with MidiQOL and Ready Set Roll</sub>
 
 </td>
-</tr>
-<tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-module-loadouts"><img src="media/sml.gif" width="300" alt="Module Loadouts"></a></td>
-<td valign="top">
+<td width="50%" valign="top">
 
-### [Module Loadouts](https://github.com/Sephral/sephrals-module-loadouts)
-<sub>Foundry v13 and v14 · any system</sub>
-
-Save the active modules as a named loadout, compare it with the current setup and switch with one click. After the restart the module checks that everything came up as planned and offers to undo the switch. Loadouts work for one world or for the whole installation and can be exported as JSON.
-
-[Foundry package](https://foundryvtt.com/packages/sephrals-module-loadouts) · [GitHub](https://github.com/Sephral/sephrals-module-loadouts) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-module-loadouts?label=release&color=fe6a1f" alt="Latest release" valign="middle">
-
-</td>
-</tr>
-<tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-file-commander"><img src="media/sfc.gif" width="300" alt="File Commander"></a></td>
-<td valign="top">
-
-### [File Commander](https://github.com/Sephral/sephrals-file-commander)
-<sub>Foundry v13 and v14 · any system</sub>
-
-A file manager with two panels side by side, controlled by keyboard like the classic commanders. Browse Foundry's storage, copy folders from one side to the other, upload files and create new folders.
-
-[Foundry package](https://foundryvtt.com/packages/sephrals-file-commander) · [GitHub](https://github.com/Sephral/sephrals-file-commander) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-file-commander?label=release&color=fe6a1f" alt="Latest release" valign="middle">
-
-</td>
-</tr>
-<tr>
-<td width="300" valign="top"><a href="https://github.com/Sephral/sephrals-combat-log-stats"><img src="media/scls.gif" width="300" alt="Combat Log &amp; Stats"></a></td>
-<td valign="top">
+<a href="https://github.com/Sephral/sephrals-combat-log-stats"><img src="media/scls.gif" width="396" alt="Combat Log &amp; Stats in action"></a>
 
 ### [Combat Log & Stats](https://github.com/Sephral/sephrals-combat-log-stats)
-<sub>Foundry v13 and v14 · any system, exact attribution in D&amp;D 5e (5.x and 6.x) and Crucible, works with MidiQOL and Ready Set Roll</sub>
 
-Records every fight round by round: damage, healing, takedowns, close calls and control effects for each combatant, with charts and awards such as MVP and Best Healer. The GM can share a player friendly report in chat, as a journal or on Discord, and players can open the statistics themselves, read only.
+**Every fight recorded, round by round.** With charts and awards such as MVP and Best Healer. Share a report in chat, as a journal or on Discord.
 
-[Foundry package](https://foundryvtt.com/packages/sephrals-combat-log-stats) · [GitHub](https://github.com/Sephral/sephrals-combat-log-stats) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-combat-log-stats?label=release&color=fe6a1f" alt="Latest release" valign="middle">
+[Foundry package](https://foundryvtt.com/packages/sephrals-combat-log-stats) · [GitHub](https://github.com/Sephral/sephrals-combat-log-stats) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-combat-log-stats?label=release&color=c4500f" alt="Latest release" valign="middle"><br>
+<sub>Exact attribution in D&amp;D 5e and Crucible · works with MidiQOL and Ready Set Roll</sub>
+
+</td>
+</tr>
+</table>
+
+## Running the game
+
+Less clicking for the GM while the game goes on.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-roll-requests"><img src="media/srr.gif" width="396" alt="Roll Requests in action"></a>
+
+### [Roll Requests](https://github.com/Sephral/sephrals-roll-requests)
+
+**Ask the group for a roll with Alt+R.** Every roll is a button, and every result arrives on one live card.
+
+[Foundry package](https://foundryvtt.com/packages/sephrals-roll-requests) · [GitHub](https://github.com/Sephral/sephrals-roll-requests) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-roll-requests?label=release&color=c4500f" alt="Latest release" valign="middle"><br>
+<sub>Built in support for D&amp;D 5e, Pathfinder 2e, Savage Worlds and Crucible</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-saved-encounters"><img src="media/sse.gif" width="396" alt="Saved Encounters in action"></a>
+
+### [Saved Encounters](https://github.com/Sephral/sephrals-saved-encounters)
+
+**Save a group of monsters once and put it on any map in seconds.** A ghost preview follows the pointer, Q and E turn the formation.
+
+[Foundry package](https://foundryvtt.com/packages/sephrals-saved-encounters) · [GitHub](https://github.com/Sephral/sephrals-saved-encounters) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-saved-encounters?label=release&color=c4500f" alt="Latest release" valign="middle">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-map-knowledge"><img src="media/smk.gif" width="396" alt="Map Knowledge in action"></a>
+
+### [Map Knowledge](https://github.com/Sephral/sephrals-map-knowledge)
+
+**The party found the old map of the dungeon.** Mark those parts as known, and token vision keeps working.
+
+[Foundry package](https://foundryvtt.com/packages/sephrals-map-knowledge) · [GitHub](https://github.com/Sephral/sephrals-map-knowledge) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-map-knowledge?label=release&color=c4500f" alt="Latest release" valign="middle"><br>
+<sub>Foundry v14 only</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-handout-lens"><img src="media/shl.gif" width="396" alt="Handout Lens in action"></a>
+
+### [Handout Lens](https://github.com/Sephral/sephrals-handout-lens)
+
+**The writing on the letter is too small to read.** Players zoom in, hold Shift for a magnifying lens and page through the notes.
+
+[Foundry package](https://foundryvtt.com/packages/sephrals-handout-lens) · [GitHub](https://github.com/Sephral/sephrals-handout-lens) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-handout-lens?label=release&color=c4500f" alt="Latest release" valign="middle">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-token-tooltips"><img src="media/stt.gif" width="396" alt="Token Tooltips in action"></a>
+
+### [Token Tooltips](https://github.com/Sephral/sephrals-token-tooltips)
+
+**Rest the pointer on a token and see its health, armor, speed and conditions.** The GM decides for every value who sees it and how.
+
+[Foundry package](https://foundryvtt.com/packages/sephrals-token-tooltips) · [GitHub](https://github.com/Sephral/sephrals-token-tooltips) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-token-tooltips?label=release&color=c4500f" alt="Latest release" valign="middle"><br>
+<sub>Presets for D&amp;D 5e, Pathfinder 2e, Savage Worlds and Crucible</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-loot-ledger"><img src="media/sll.gif" width="396" alt="Loot Ledger in action"></a>
+
+### [Loot Ledger](https://github.com/Sephral/sephrals-loot-ledger)
+
+**A shared party inventory with a fair loot table.** Need, Want or Pass, and coins are split without losing a copper.
+
+[Foundry package](https://foundryvtt.com/packages/sephrals-loot-ledger) · [GitHub](https://github.com/Sephral/sephrals-loot-ledger) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-loot-ledger?label=release&color=c4500f" alt="Latest release" valign="middle"><br>
+<sub>Built in support for Crucible and D&amp;D 5e</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-roll-triggers"><img src="media/srt.gif" width="396" alt="Roll Triggers in action"></a>
+
+### [Roll Triggers](https://github.com/Sephral/sephrals-roll-triggers)
+
+**House rules for special rolls.** Natural 20s, fumbles, doubles. A trigger can post a message, roll on a table or run a macro.
+
+[Foundry package](https://foundryvtt.com/packages/sephrals-roll-triggers) · [GitHub](https://github.com/Sephral/sephrals-roll-triggers) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-roll-triggers?label=release&color=c4500f" alt="Latest release" valign="middle"><br>
+<sub>Works with D&amp;D 5e 5.x and 6.x, MidiQOL and Ready Set Roll</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-player-notes"><img src="media/spn.gif" width="396" alt="Player Notes in action"></a>
+
+### [Player Notes](https://github.com/Sephral/sephrals-player-notes)
+
+**Private GM notes on player characters.** Story hooks, secrets, promises, debts. A dashboard shows what is still open.
+
+[Foundry package](https://foundryvtt.com/packages/sephrals-player-notes) · [GitHub](https://github.com/Sephral/sephrals-player-notes) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-player-notes?label=release&color=c4500f" alt="Latest release" valign="middle">
+
+</td>
+</tr>
+</table>
+
+## Behind the scenes
+
+Keep the world in order between sessions.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-image-paste-drop"><img src="media/sipd.gif" width="396" alt="Image Paste &amp; Drop in action"></a>
+
+### [Image Paste & Drop](https://github.com/Sephral/sephrals-image-paste-drop)
+
+**Paste an image with Ctrl+V or drop it onto Foundry.** Then decide what it becomes: a scene, a tile, a token image, a chat post.
+
+[Foundry package](https://foundryvtt.com/packages/sephrals-image-paste-drop) · [GitHub](https://github.com/Sephral/sephrals-image-paste-drop) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-image-paste-drop?label=release&color=c4500f" alt="Latest release" valign="middle">
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-content-backup-restore"><img src="media/scbr.gif" width="396" alt="Content Backup &amp; Restore in action"></a>
+
+### [Content Backup & Restore](https://github.com/Sephral/sephrals-content-backup-restore)
+
+**Named backups for scenes, actors, items and more.** Restore a document from any backup or recover one that was deleted.
+
+[Foundry package](https://foundryvtt.com/packages/sephrals-content-backup-restore) · [GitHub](https://github.com/Sephral/sephrals-content-backup-restore) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-content-backup-restore?label=release&color=c4500f" alt="Latest release" valign="middle">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-module-loadouts"><img src="media/sml.gif" width="396" alt="Module Loadouts in action"></a>
+
+### [Module Loadouts](https://github.com/Sephral/sephrals-module-loadouts)
+
+**Save the active modules as a named loadout and switch with one click.** After the restart it checks that everything came up as planned.
+
+[Foundry package](https://foundryvtt.com/packages/sephrals-module-loadouts) · [GitHub](https://github.com/Sephral/sephrals-module-loadouts) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-module-loadouts?label=release&color=c4500f" alt="Latest release" valign="middle">
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-file-commander"><img src="media/sfc.gif" width="396" alt="File Commander in action"></a>
+
+### [File Commander](https://github.com/Sephral/sephrals-file-commander)
+
+**A file manager with two panels side by side.** Controlled by keyboard, like the classic commanders.
+
+[Foundry package](https://foundryvtt.com/packages/sephrals-file-commander) · [GitHub](https://github.com/Sephral/sephrals-file-commander) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-file-commander?label=release&color=c4500f" alt="Latest release" valign="middle">
 
 </td>
 </tr>
@@ -354,7 +347,11 @@ Records every fight round by round: damage, healing, takedowns, close calls and 
 
 ## Install by link
 
-A module that is not in Foundry's module search installs by its link, the manifest URL. Copy the link from the module above, then:
+<table>
+<tr>
+<td width="50%" valign="top">
+
+A module that is not in Foundry's module search installs by its link, the manifest URL.
 
 1. In Foundry's setup screen open **Add-on Modules** and click **Install Module**.
 2. Paste the link into **Manifest URL** at the bottom of the window.
@@ -362,7 +359,14 @@ A module that is not in Foundry's module search installs by its link, the manife
 
 On The Forge open the Bazaar, click **Install From Manifest** and paste the link.
 
-<img src="media/install.gif" width="800" alt="Installing a module by its link in Foundry's setup screen">
+</td>
+<td width="50%" valign="top">
+
+<img src="media/install.gif" width="396" alt="Installing a module by its link in Foundry's setup screen">
+
+</td>
+</tr>
+</table>
 
 ## Support
 
