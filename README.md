@@ -2,7 +2,7 @@
 
 I build modules for [Foundry Virtual Tabletop](https://foundryvtt.com). They are free, and every one of them comes in English and German.
 
-You find them in Foundry's own module browser: search for **Sephral**. Four are not in that search: Swift Dice, Roll Requests, Saved Encounters and Performance Doctor. They install by their link, and it takes a minute: [here is how](#install-by-link).
+You find them in Foundry's own module browser: search for **Sephral**. One is not in that search: Performance Doctor. It installs by its link, and it takes a minute: [here is how](#install-by-link).
 
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/7BjCgDYaBP)
 
@@ -108,11 +108,7 @@ For Foundry v13 and v14, with any game system. Map Knowledge needs Foundry v14.
 
 Light 3D dice for every roll that never hold up the game. Everyone sees the same throw at the same moment, and the chat card shows its result when the dice lie still. Dice come in each player's Foundry color or a look of their own, with thirty ready looks, seventeen class looks, thirteen ways to throw and big moments that fit your game system. No WebGL and no physics engine, so they run on old laptops, tablets and in Firefox.
 
-[GitHub](https://github.com/Sephral/sephrals-swift-dice) · [How to install](#install-by-link) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-swift-dice?label=release&color=fe6a1f" alt="Latest release" valign="middle">
-
-```text
-https://github.com/Sephral/sephrals-swift-dice/releases/latest/download/module.json
-```
+[Foundry package](https://foundryvtt.com/packages/sephrals-swift-dice) · [GitHub](https://github.com/Sephral/sephrals-swift-dice) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-swift-dice?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
 </td>
 </tr>
@@ -164,11 +160,7 @@ Rest the pointer on a token and see its health, armor, speed and conditions. The
 
 Save a group of monsters once and put it on any map in seconds. A ghost preview follows the pointer, Q and E turn the formation, counts like 1d4+1 goblins are rolled anew each time, and place and fight starts the combat with initiative. Pins mark where an encounter waits, and unique villains never stand twice on a scene.
 
-[GitHub](https://github.com/Sephral/sephrals-saved-encounters) · [How to install](#install-by-link) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-saved-encounters?label=release&color=fe6a1f" alt="Latest release" valign="middle">
-
-```text
-https://github.com/Sephral/sephrals-saved-encounters/releases/latest/download/module.json
-```
+[Foundry package](https://foundryvtt.com/packages/sephrals-saved-encounters) · [GitHub](https://github.com/Sephral/sephrals-saved-encounters) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-saved-encounters?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
 </td>
 </tr>
@@ -181,11 +173,7 @@ https://github.com/Sephral/sephrals-saved-encounters/releases/latest/download/mo
 
 Ask the group for a roll with Alt+R and watch every result arrive on one live card. Every roll is a button. Keep the DC secret, let each player pick a roll, make it a group check or roll silently so nobody notices. Players roll with one click through their own system's dialog.
 
-[GitHub](https://github.com/Sephral/sephrals-roll-requests) · [How to install](#install-by-link) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-roll-requests?label=release&color=fe6a1f" alt="Latest release" valign="middle">
-
-```text
-https://github.com/Sephral/sephrals-roll-requests/releases/latest/download/module.json
-```
+[Foundry package](https://foundryvtt.com/packages/sephrals-roll-requests) · [GitHub](https://github.com/Sephral/sephrals-roll-requests) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-roll-requests?label=release&color=fe6a1f" alt="Latest release" valign="middle">
 
 </td>
 </tr>
