@@ -1,8 +1,8 @@
 ## Hi, I'm Sephral
 
-I build modules for [Foundry Virtual Tabletop](https://foundryvtt.com). All 23 are free, and every one of them comes in English and German. For Foundry v13 and v14, with any game system unless a module says otherwise.
+I build modules for [Foundry Virtual Tabletop](https://foundryvtt.com). All 27 are free, and every one of them comes in English and German. For Foundry v13 and v14, with any game system unless a module says otherwise.
 
-You find them in Foundry's own module browser: search for **Sephral**. One is not in that search: Performance Doctor, which installs by its link right below.
+You find them in Foundry's own module browser: search for **Sephral**. Five are not in that search yet: Performance Doctor, Deep Tables, Map Pins, Token Wardrobe and Update Guard, which install by their link right below.
 
 **Jump to:** [Crucible and Ember](#made-for-crucible-and-ember) · [At the table](#at-the-table) · [Running the game](#running-the-game) · [Behind the scenes](#behind-the-scenes) · [Install by link](#install-by-link) · [Support](#support)
 
@@ -180,6 +180,42 @@ What everyone at the table sees, rolls and remembers.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-token-wardrobe"><img src="media/stw.gif" width="395" alt="Token Wardrobe in action"></a>
+
+### [Token Wardrobe](https://github.com/Sephral/sephrals-token-wardrobe)
+
+**A wardrobe for every character.** One click on the sheet or the token puts a look on, and portrait and token change together.
+
+[GitHub](https://github.com/Sephral/sephrals-token-wardrobe) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-token-wardrobe?label=release&color=c4500f" alt="Latest release" valign="middle">
+
+Not in Foundry's module search yet, [here is how](#install-by-link):
+
+```text
+https://github.com/Sephral/sephrals-token-wardrobe/releases/latest/download/module.json
+```
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-map-pins"><img src="media/smp.gif" width="395" alt="Map Pins in action"></a>
+
+### [Map Pins](https://github.com/Sephral/sephrals-map-pins)
+
+**Pins on a big map you can finally read.** Labels that stay visible, numbers, categories and a preview that shows only what each person may read.
+
+[GitHub](https://github.com/Sephral/sephrals-map-pins) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-map-pins?label=release&color=c4500f" alt="Latest release" valign="middle">
+
+Not in Foundry's module search yet, [here is how](#install-by-link):
+
+```text
+https://github.com/Sephral/sephrals-map-pins/releases/latest/download/module.json
+```
+
+</td>
+</tr>
 </table>
 
 ## Running the game
@@ -288,6 +324,25 @@ Less clicking for the GM while the game goes on.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-deep-tables"><img src="media/sdt.gif" width="395" alt="Deep Tables in action"></a>
+
+### [Deep Tables](https://github.com/Sephral/sephrals-deep-tables)
+
+**Roll tables that do the whole job in one go.** Tables inside tables, quantities like 2d4+1, one clear card, and a click gives the result to a character.
+
+[GitHub](https://github.com/Sephral/sephrals-deep-tables) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-deep-tables?label=release&color=c4500f" alt="Latest release" valign="middle">
+
+Not in Foundry's module search yet, [here is how](#install-by-link):
+
+```text
+https://github.com/Sephral/sephrals-deep-tables/releases/latest/download/module.json
+```
+
+</td>
+</tr>
 </table>
 
 ## Behind the scenes
@@ -340,6 +395,25 @@ Keep the world in order between sessions.
 **A file manager with two panels side by side.** Controlled by keyboard, like the classic commanders.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-file-commander) · [GitHub](https://github.com/Sephral/sephrals-file-commander) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-file-commander?label=release&color=c4500f" alt="Latest release" valign="middle">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-update-guard"><img src="media/sug.gif" width="395" alt="Update Guard in action"></a>
+
+### [Update Guard](https://github.com/Sephral/sephrals-update-guard)
+
+**Is my world still working after the update?** A test run names the module that broke, a search finds the one that breaks without an error, and the way back is always shown.
+
+[GitHub](https://github.com/Sephral/sephrals-update-guard) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-update-guard?label=release&color=c4500f" alt="Latest release" valign="middle">
+
+Not in Foundry's module search yet, [here is how](#install-by-link):
+
+```text
+https://github.com/Sephral/sephrals-update-guard/releases/latest/download/module.json
+```
 
 </td>
 </tr>
