@@ -1,8 +1,8 @@
 ## Hi, I'm Sephral
 
-I build modules for [Foundry Virtual Tabletop](https://foundryvtt.com). All 27 are free, and every one of them comes in English and German. For Foundry v13 and v14, with any game system unless a module says otherwise.
+I build modules for [Foundry Virtual Tabletop](https://foundryvtt.com). All 28 are free, and every one of them comes in English and German. For Foundry v13 and v14, with any game system unless a module says otherwise.
 
-You find them in Foundry's own module browser: search for **Sephral**. Five are not in that search yet: Performance Doctor, Deep Tables, Map Pins, Token Wardrobe and Update Guard, which install by their link right below.
+You find them in Foundry's own module browser: search for **Sephral**. Six are not in that search yet: Performance Doctor, Deep Tables, First Table, Map Pins, Token Wardrobe and Update Guard, which install by their link right below.
 
 **Jump to:** [Crucible and Ember](#made-for-crucible-and-ember) · [At the table](#at-the-table) · [Running the game](#running-the-game) · [Behind the scenes](#behind-the-scenes) · [Install by link](#install-by-link) · [Support](#support)
 
@@ -124,7 +124,7 @@ What everyone at the table sees, rolls and remembers.
 
 ### [Tavern Games](https://github.com/Sephral/sephrals-tavern-games)
 
-**Eight games for the tavern table.** From nine men's morris to liar's dice. Play against each other or the regulars of the inn.
+**Eight games for the tavern table.** From nine men's morris to liar's dice. Play against each other or the regulars of the inn, and a break gets a game suggestion.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-tavern-games) · [GitHub](https://github.com/Sephral/sephrals-tavern-games) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-tavern-games?label=release&color=c4500f" alt="Latest release" valign="middle">
 
@@ -148,7 +148,7 @@ What everyone at the table sees, rolls and remembers.
 
 ### [Table Compass](https://github.com/Sephral/sephrals-table-compass)
 
-**Anonymous feedback from the players to the GM.** The GM sees the mood of the table in one small window, never who said what.
+**Anonymous feedback from the players to the GM.** The GM sees the mood of the table in one small window, never who said what. Lines and veils are set in secret, and a spotlight check shows who waited long.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-table-compass) · [GitHub](https://github.com/Sephral/sephrals-table-compass) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-table-compass?label=release&color=c4500f" alt="Latest release" valign="middle">
 
@@ -161,7 +161,7 @@ What everyone at the table sees, rolls and remembers.
 
 ### [Roll Breakdown](https://github.com/Sephral/sephrals-roll-breakdown)
 
-**See where every number comes from.** A compact panel on roll messages shows the dice, the modifiers and the reasons for advantage.
+**See where every number comes from.** One short line on the card names the main parts, and a click opens the dice, the modifiers and the reasons for advantage.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-roll-breakdown) · [GitHub](https://github.com/Sephral/sephrals-roll-breakdown) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-roll-breakdown?label=release&color=c4500f" alt="Latest release" valign="middle"><br>
 <sub>Extra details for D&amp;D 5e, Crucible, Pathfinder 2e and Savage Worlds · works with MidiQOL and Ready Set Roll</sub>
@@ -173,7 +173,7 @@ What everyone at the table sees, rolls and remembers.
 
 ### [Combat Log & Stats](https://github.com/Sephral/sephrals-combat-log-stats)
 
-**Every fight recorded, round by round.** With charts and awards such as MVP and Best Healer. Share a report in chat, as a journal or on Discord.
+**Every fight recorded, round by round.** With charts and awards such as MVP and Best Healer, a summary card when the fight ends, and a log between the fights too. Share a report in chat, as a journal or on Discord.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-combat-log-stats) · [GitHub](https://github.com/Sephral/sephrals-combat-log-stats) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-combat-log-stats?label=release&color=c4500f" alt="Latest release" valign="middle"><br>
 <sub>Exact attribution in D&amp;D 5e and Crucible · works with MidiQOL and Ready Set Roll</sub>
@@ -187,7 +187,7 @@ What everyone at the table sees, rolls and remembers.
 
 ### [Token Wardrobe](https://github.com/Sephral/sephrals-token-wardrobe)
 
-**A wardrobe for every character.** One click on the sheet or the token puts a look on, and portrait and token change together.
+**A wardrobe for every character.** One click on the sheet or the token puts a look on, and portrait and token change together. A conversation stage brings the portraits big onto every screen.
 
 [GitHub](https://github.com/Sephral/sephrals-token-wardrobe) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-token-wardrobe?label=release&color=c4500f" alt="Latest release" valign="middle">
 
@@ -204,7 +204,7 @@ https://github.com/Sephral/sephrals-token-wardrobe/releases/latest/download/modu
 
 ### [Map Pins](https://github.com/Sephral/sephrals-map-pins)
 
-**Pins on a big map you can finally read.** Labels that stay visible, numbers, categories and a preview that shows only what each person may read.
+**Pins on a big map you can finally read.** Labels that stay visible, numbers, categories, rumors told bit by bit, and a ring on the pin where the party is now.
 
 [GitHub](https://github.com/Sephral/sephrals-map-pins) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-map-pins?label=release&color=c4500f" alt="Latest release" valign="middle">
 
@@ -255,7 +255,7 @@ Less clicking for the GM while the game goes on.
 
 ### [Map Knowledge](https://github.com/Sephral/sephrals-map-knowledge)
 
-**The party found the old map of the dungeon.** Mark those parts as known, and token vision keeps working.
+**The party found the old map of the dungeon.** Mark those parts as known, check the result through a player's eyes first, and token vision keeps working.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-map-knowledge) · [GitHub](https://github.com/Sephral/sephrals-map-knowledge) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-map-knowledge?label=release&color=c4500f" alt="Latest release" valign="middle"><br>
 <sub>Foundry v14 only</sub>
@@ -280,7 +280,7 @@ Less clicking for the GM while the game goes on.
 
 ### [Token Tooltips](https://github.com/Sephral/sephrals-token-tooltips)
 
-**Rest the pointer on a token and see its health, armor, speed and conditions.** The GM decides for every value who sees it and how.
+**Rest the pointer on a token and see its health, armor, speed and conditions.** The GM decides for every value who sees it and how, down to the numbers that float up on a hit.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-token-tooltips) · [GitHub](https://github.com/Sephral/sephrals-token-tooltips) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-token-tooltips?label=release&color=c4500f" alt="Latest release" valign="middle"><br>
 <sub>Presets for D&amp;D 5e, Pathfinder 2e, Savage Worlds and Crucible</sub>
@@ -292,7 +292,7 @@ Less clicking for the GM while the game goes on.
 
 ### [Loot Ledger](https://github.com/Sephral/sephrals-loot-ledger)
 
-**A shared party inventory with a fair loot table.** Need, Want or Pass, and coins are split without losing a copper.
+**A shared party inventory with a fair loot table.** Need, Want or Pass, coins are split without losing a copper, and unidentified items show only their cover.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-loot-ledger) · [GitHub](https://github.com/Sephral/sephrals-loot-ledger) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-loot-ledger?label=release&color=c4500f" alt="Latest release" valign="middle"><br>
 <sub>Built in support for Crucible and D&amp;D 5e</sub>
@@ -306,7 +306,7 @@ Less clicking for the GM while the game goes on.
 
 ### [Roll Triggers](https://github.com/Sephral/sephrals-roll-triggers)
 
-**House rules for special rolls.** Natural 20s, fumbles, doubles. A trigger can post a message, roll on a table or run a macro.
+**House rules for special rolls.** Natural 20s, fumbles, doubles. A trigger can post a message, roll on a table or run a macro. Start from a gallery of ready rules, and react to combat too.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-roll-triggers) · [GitHub](https://github.com/Sephral/sephrals-roll-triggers) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-roll-triggers?label=release&color=c4500f" alt="Latest release" valign="middle"><br>
 <sub>Works with D&amp;D 5e 5.x and 6.x, MidiQOL and Ready Set Roll</sub>
@@ -331,7 +331,7 @@ Less clicking for the GM while the game goes on.
 
 ### [Deep Tables](https://github.com/Sephral/sephrals-deep-tables)
 
-**Roll tables that do the whole job in one go.** Tables inside tables, quantities like 2d4+1, one clear card, and a click gives the result to a character.
+**Roll tables that do the whole job in one go.** Tables inside tables, quantities like 2d4+1, one clear card, a library of ready tables, results that act, and a click gives the result to a character.
 
 [GitHub](https://github.com/Sephral/sephrals-deep-tables) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-deep-tables?label=release&color=c4500f" alt="Latest release" valign="middle">
 
@@ -339,6 +339,23 @@ Not in Foundry's module search yet, [here is how](#install-by-link):
 
 ```text
 https://github.com/Sephral/sephrals-deep-tables/releases/latest/download/module.json
+```
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-first-table"><img src="media/sft.gif" width="395" alt="First Table in action"></a>
+
+### [First Table](https://github.com/Sephral/sephrals-first-table)
+
+**A first session for every new player, started by itself.** A small card guides them through the sheet, a roll, moving, targeting and chat, and the GM sees who finished.
+
+[GitHub](https://github.com/Sephral/sephrals-first-table) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-first-table?label=release&color=c4500f" alt="Latest release" valign="middle">
+
+Not in Foundry's module search yet, [here is how](#install-by-link):
+
+```text
+https://github.com/Sephral/sephrals-first-table/releases/latest/download/module.json
 ```
 
 </td>
@@ -357,7 +374,7 @@ Keep the world in order between sessions.
 
 ### [Image Paste & Drop](https://github.com/Sephral/sephrals-image-paste-drop)
 
-**Paste an image with Ctrl+V or drop it onto Foundry.** Then decide what it becomes: a scene, a tile, a token image, a chat post.
+**Paste an image with Ctrl+V or drop it onto Foundry.** Then decide what it becomes: a scene, a tile, a token image, a chat post. The printed grid of a map is found for you, hexes too.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-image-paste-drop) · [GitHub](https://github.com/Sephral/sephrals-image-paste-drop) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-image-paste-drop?label=release&color=c4500f" alt="Latest release" valign="middle">
 
@@ -368,7 +385,7 @@ Keep the world in order between sessions.
 
 ### [Content Backup & Restore](https://github.com/Sephral/sephrals-content-backup-restore)
 
-**Named backups for scenes, actors, items and more.** Restore a document from any backup or recover one that was deleted.
+**Named backups for scenes, actors, items and more.** Restore a document from any backup or recover one that was deleted. When a fight begins, the state of the table is saved for you.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-content-backup-restore) · [GitHub](https://github.com/Sephral/sephrals-content-backup-restore) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-content-backup-restore?label=release&color=c4500f" alt="Latest release" valign="middle">
 
@@ -405,7 +422,7 @@ Keep the world in order between sessions.
 
 ### [Update Guard](https://github.com/Sephral/sephrals-update-guard)
 
-**Is my world still working after the update?** A test run names the module that broke, a search finds the one that breaks without an error, and the way back is always shown.
+**Is my world still working after the update?** A test run names the module that broke, a search finds the one that breaks without an error, the way back is always shown, and a check before game night says if you are ready.
 
 [GitHub](https://github.com/Sephral/sephrals-update-guard) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-update-guard?label=release&color=c4500f" alt="Latest release" valign="middle">
 
