@@ -113,7 +113,7 @@ What everyone at the table sees, rolls and remembers.
 
 ### [Swift Dice](https://github.com/Sephral/sephrals-swift-dice)
 
-**Light 3D dice for every roll that never hold up the game.** No WebGL and no physics engine, so they run on old laptops, tablets and in Firefox.
+**Light 3D dice for every roll that never hold up the game.** No WebGL and no physics engine, so they run on old laptops, tablets and in Firefox. Every character can have their own dice.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-swift-dice) · [GitHub](https://github.com/Sephral/sephrals-swift-dice) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-swift-dice?label=release&color=c4500f" alt="Latest release" valign="middle">
 
@@ -124,7 +124,7 @@ What everyone at the table sees, rolls and remembers.
 
 ### [Tavern Games](https://github.com/Sephral/sephrals-tavern-games)
 
-**Eight games for the tavern table.** From nine men's morris to liar's dice. Play against each other or the regulars of the inn, and a break gets a game suggestion.
+**Nine games for the tavern table.** From nine men's morris to Mia, the bluffing game. Play against each other or the regulars of the inn, for play money if you like, and a break gets a game suggestion.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-tavern-games) · [GitHub](https://github.com/Sephral/sephrals-tavern-games) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-tavern-games?label=release&color=c4500f" alt="Latest release" valign="middle">
 
@@ -137,7 +137,7 @@ What everyone at the table sees, rolls and remembers.
 
 ### [Campaign Album](https://github.com/Sephral/sephrals-campaign-album)
 
-**Photos of the big moments, exactly as your players saw them.** One page per session, with a slideshow for the end of the evening.
+**Photos of the big moments, exactly as your players saw them.** One page per session, with a slideshow for the end of the evening and a look back at the last session when the next one starts.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-campaign-album) · [GitHub](https://github.com/Sephral/sephrals-campaign-album) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-campaign-album?label=release&color=c4500f" alt="Latest release" valign="middle">
 
@@ -161,10 +161,10 @@ What everyone at the table sees, rolls and remembers.
 
 ### [Roll Breakdown](https://github.com/Sephral/sephrals-roll-breakdown)
 
-**See where every number comes from.** One short line on the card names the main parts, and a click opens the dice, the modifiers and the reasons for advantage.
+**See where every number comes from.** One short line on the card names the main parts, rest the pointer on it for the whole story with the chance of success, and a click opens the dice, the modifiers and the reasons for advantage.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-roll-breakdown) · [GitHub](https://github.com/Sephral/sephrals-roll-breakdown) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-roll-breakdown?label=release&color=c4500f" alt="Latest release" valign="middle"><br>
-<sub>Extra details for D&amp;D 5e, Crucible, Pathfinder 2e and Savage Worlds · works with MidiQOL and Ready Set Roll</sub>
+<sub>Extra details for D&amp;D 5e, Crucible, Pathfinder 2e, Starfinder 2e and Savage Worlds · works with MidiQOL and Ready Set Roll</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -173,10 +173,10 @@ What everyone at the table sees, rolls and remembers.
 
 ### [Combat Log & Stats](https://github.com/Sephral/sephrals-combat-log-stats)
 
-**Every fight recorded, round by round.** With charts and awards such as MVP and Best Healer, a summary card when the fight ends, and a log between the fights too. Share a report in chat, as a journal or on Discord.
+**Every fight recorded, round by round.** With charts and awards such as MVP and Best Healer, a summary card that tells the fight round by round, a danger bar for the GM, and a log between the fights too. Share a report in chat, as a journal or on Discord.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-combat-log-stats) · [GitHub](https://github.com/Sephral/sephrals-combat-log-stats) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-combat-log-stats?label=release&color=c4500f" alt="Latest release" valign="middle"><br>
-<sub>Exact attribution in D&amp;D 5e and Crucible · works with MidiQOL and Ready Set Roll</sub>
+<sub>Exact attribution in D&amp;D 5e, Crucible and Pathfinder 2e · works with MidiQOL and Ready Set Roll</sub>
 
 </td>
 </tr>
@@ -204,7 +204,7 @@ https://github.com/Sephral/sephrals-token-wardrobe/releases/latest/download/modu
 
 ### [Map Pins](https://github.com/Sephral/sephrals-map-pins)
 
-**Pins on a big map you can finally read.** Labels that stay visible, numbers, categories, rumors told bit by bit, and a ring on the pin where the party is now.
+**Pins on a big map you can finally read.** Labels that stay visible, numbers, categories, rumors told bit by bit, a ring on the pin where the party is now, and a preview of the linked scene.
 
 [GitHub](https://github.com/Sephral/sephrals-map-pins) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-map-pins?label=release&color=c4500f" alt="Latest release" valign="middle">
 
@@ -230,7 +230,7 @@ Less clicking for the GM while the game goes on.
 
 ### [Roll Requests](https://github.com/Sephral/sephrals-roll-requests)
 
-**Ask the group for a roll with Alt+R.** Every roll is a button, and every result arrives on one live card.
+**Ask the group for a roll with Alt+R.** Every roll is a button, and every result arrives on one live card. Plan checks for a scene and let a Region send them when a token walks in.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-roll-requests) · [GitHub](https://github.com/Sephral/sephrals-roll-requests) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-roll-requests?label=release&color=c4500f" alt="Latest release" valign="middle"><br>
 <sub>Built in support for D&amp;D 5e, Pathfinder 2e, Savage Worlds and Crucible</sub>
@@ -280,7 +280,7 @@ Less clicking for the GM while the game goes on.
 
 ### [Token Tooltips](https://github.com/Sephral/sephrals-token-tooltips)
 
-**Rest the pointer on a token and see its health, armor, speed and conditions.** The GM decides for every value who sees it and how, down to the numbers that float up on a hit.
+**Rest the pointer on a token and see its health, armor, speed and conditions.** The GM decides for every value who sees it and how, down to the numbers that float up on a hit. Distance, elevation and cover too, and the combat tracker gets tooltips.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-token-tooltips) · [GitHub](https://github.com/Sephral/sephrals-token-tooltips) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-token-tooltips?label=release&color=c4500f" alt="Latest release" valign="middle"><br>
 <sub>Presets for D&amp;D 5e, Pathfinder 2e, Savage Worlds and Crucible</sub>
@@ -292,10 +292,10 @@ Less clicking for the GM while the game goes on.
 
 ### [Loot Ledger](https://github.com/Sephral/sephrals-loot-ledger)
 
-**A shared party inventory with a fair loot table.** Need, Want or Pass, coins are split without losing a copper, and unidentified items show only their cover.
+**A shared party inventory with a fair loot table.** Need, Want or Pass, coins are split without losing a copper, and unidentified items show only their cover. Players keep a wish list, and a merchant buys and sells with haggling.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-loot-ledger) · [GitHub](https://github.com/Sephral/sephrals-loot-ledger) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-loot-ledger?label=release&color=c4500f" alt="Latest release" valign="middle"><br>
-<sub>Built in support for Crucible and D&amp;D 5e</sub>
+<sub>Built in support for Crucible, D&amp;D 5e and Pathfinder 2e</sub>
 
 </td>
 </tr>
@@ -318,7 +318,7 @@ Less clicking for the GM while the game goes on.
 
 ### [Player Notes](https://github.com/Sephral/sephrals-player-notes)
 
-**Private GM notes on player characters.** Story hooks, secrets, promises, debts. A dashboard shows what is still open.
+**Private GM notes on player characters.** Story hooks, secrets, promises, debts. Turn a chat message into a note with a right click, and a dashboard shows what is still open.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-player-notes) · [GitHub](https://github.com/Sephral/sephrals-player-notes) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-player-notes?label=release&color=c4500f" alt="Latest release" valign="middle">
 
@@ -374,7 +374,7 @@ Keep the world in order between sessions.
 
 ### [Image Paste & Drop](https://github.com/Sephral/sephrals-image-paste-drop)
 
-**Paste an image with Ctrl+V or drop it onto Foundry.** Then decide what it becomes: a scene, a tile, a token image, a chat post. The printed grid of a map is found for you, hexes too.
+**Paste an image with Ctrl+V or drop it onto Foundry.** Then decide what it becomes: a scene, a tile, a token image, a chat post. The printed grid of a map is found for you, hexes too, and token pictures get a clean cut and a frame.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-image-paste-drop) · [GitHub](https://github.com/Sephral/sephrals-image-paste-drop) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-image-paste-drop?label=release&color=c4500f" alt="Latest release" valign="middle">
 
@@ -409,7 +409,7 @@ Keep the world in order between sessions.
 
 ### [File Commander](https://github.com/Sephral/sephrals-file-commander)
 
-**A file manager with two panels side by side.** Controlled by keyboard, like the classic commanders.
+**A file manager with two panels side by side.** Controlled by keyboard, like the classic commanders. Upload whole folders, convert to WebP on the way, or switch a panel to thumbnails.
 
 [Foundry package](https://foundryvtt.com/packages/sephrals-file-commander) · [GitHub](https://github.com/Sephral/sephrals-file-commander) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-file-commander?label=release&color=c4500f" alt="Latest release" valign="middle">
 
