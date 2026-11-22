@@ -1,8 +1,8 @@
 ## Hi, I'm Sephral
 
-I build modules for [Foundry Virtual Tabletop](https://foundryvtt.com). All 30 are free, and every one of them comes in English and German. For Foundry v13 and v14, with any game system unless a module says otherwise.
+I build modules for [Foundry Virtual Tabletop](https://foundryvtt.com). All 31 are free, and every one of them comes in English and German. For Foundry v13 and v14, with any game system unless a module says otherwise.
 
-You find them in Foundry's own module browser: search for **Sephral**. Eight are not in that search yet: Performance Doctor, Deep Tables, First Table, Instant Replay, Map Pins, Session Chronicle, Token Wardrobe and Update Guard, which install by their link right below.
+You find them in Foundry's own module browser: search for **Sephral**. Nine are not in that search yet: Performance Doctor, Deep Tables, First Table, Instant Replay, Map Pins, Session Chronicle, Token Wardrobe, Translator and Update Guard, which install by their link right below.
 
 **Jump to:** [Crucible and Ember](#made-for-crucible-and-ember) · [At the table](#at-the-table) · [Running the game](#running-the-game) · [Behind the scenes](#behind-the-scenes) · [Install by link](#install-by-link) · [Support](#support)
 
@@ -466,6 +466,23 @@ Not in Foundry's module search yet, [here is how](#install-by-link):
 
 ```text
 https://github.com/Sephral/sephrals-update-guard/releases/latest/download/module.json
+```
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-translator"><img src="media/stl.gif" width="395" alt="Translator in action"></a>
+
+### [Translator](https://github.com/Sephral/sephrals-translator)
+
+**Speak a language the modules do not have yet?** Translate one in your own Foundry and see every word at once in its real windows, also in sample windows for what needs a fight first. By hand only, and you hand it in on Discord or GitHub.
+
+[GitHub](https://github.com/Sephral/sephrals-translator) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-translator?label=release&color=c4500f" alt="Latest release" valign="middle">
+
+Not in Foundry's module search yet, [here is how](#install-by-link):
+
+```text
+https://github.com/Sephral/sephrals-translator/releases/latest/download/module.json
 ```
 
 </td>
