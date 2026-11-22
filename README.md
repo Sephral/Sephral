@@ -1,8 +1,8 @@
 ## Hi, I'm Sephral
 
-I build modules for [Foundry Virtual Tabletop](https://foundryvtt.com). All 28 are free, and every one of them comes in English and German. For Foundry v13 and v14, with any game system unless a module says otherwise.
+I build modules for [Foundry Virtual Tabletop](https://foundryvtt.com). All 30 are free, and every one of them comes in English and German. For Foundry v13 and v14, with any game system unless a module says otherwise.
 
-You find them in Foundry's own module browser: search for **Sephral**. Six are not in that search yet: Performance Doctor, Deep Tables, First Table, Map Pins, Token Wardrobe and Update Guard, which install by their link right below.
+You find them in Foundry's own module browser: search for **Sephral**. Eight are not in that search yet: Performance Doctor, Deep Tables, First Table, Instant Replay, Map Pins, Session Chronicle, Token Wardrobe and Update Guard, which install by their link right below.
 
 **Jump to:** [Crucible and Ember](#made-for-crucible-and-ember) · [At the table](#at-the-table) · [Running the game](#running-the-game) · [Behind the scenes](#behind-the-scenes) · [Install by link](#install-by-link) · [Support](#support)
 
@@ -212,6 +212,42 @@ Not in Foundry's module search yet, [here is how](#install-by-link):
 
 ```text
 https://github.com/Sephral/sephrals-map-pins/releases/latest/download/module.json
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-instant-replay"><img src="media/sir.gif" width="395" alt="Instant Replay in action"></a>
+
+### [Instant Replay](https://github.com/Sephral/sephrals-instant-replay)
+
+**The natural 20 everybody wants to see again.** One click saves the last seconds of the battle map as a short clip in the chat, in slow motion if you like, or by itself on a critical hit or fumble.
+
+[GitHub](https://github.com/Sephral/sephrals-instant-replay) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-instant-replay?label=release&color=c4500f" alt="Latest release" valign="middle">
+
+Not in Foundry's module search yet, [here is how](#install-by-link):
+
+```text
+https://github.com/Sephral/sephrals-instant-replay/releases/latest/download/module.json
+```
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Sephral/sephrals-session-chronicle"><img src="media/ssc.gif" width="395" alt="Session Chronicle in action"></a>
+
+### [Session Chronicle](https://github.com/Sephral/sephrals-session-chronicle)
+
+**What happened last time?** One journal page per game night with fights, level ups, loot and big rolls, written without AI, a Previously card at the next start and a private card for late players.
+
+[GitHub](https://github.com/Sephral/sephrals-session-chronicle) · <img src="https://img.shields.io/github/v/release/Sephral/sephrals-session-chronicle?label=release&color=c4500f" alt="Latest release" valign="middle">
+
+Not in Foundry's module search yet, [here is how](#install-by-link):
+
+```text
+https://github.com/Sephral/sephrals-session-chronicle/releases/latest/download/module.json
 ```
 
 </td>
